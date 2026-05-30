@@ -1,0 +1,9 @@
+{
+  "name": "CubeShield 11",
+  "description": "",
+  "loader": "fabric",
+  "loader_version": "",
+  "minecraft_version": "26.1.2",
+  "image_url": "https://raw.githubusercontent.com/CubeShield/CubeShield11-Instance/main/logo.png",
+  "containers": []
+}
