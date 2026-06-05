@@ -1502,6 +1502,48 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "Illager Expansion Recrafted",
+          "image_url": "https://cdn.modrinth.com/data/zkp424MG/c126b2250296df774e0cde79cc0a81c67302911c_96.webp",
+          "type": "server",
+          "mod_id": "illager-expansion-polymer",
+          "file_id": "1.10.0+26.1.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "illager_expansion-1.10.0+26.1.1.jar",
+          "url": "https://cdn.modrinth.com/data/zkp424MG/versions/qk1l3DzZ/illager_expansion-1.10.0%2B26.1.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Illager Arena",
+          "image_url": "https://cdn.modrinth.com/data/6Eq86tCy/416d92cf7c8298777b99cc368396b7753894ffdd_96.webp",
+          "type": "both",
+          "mod_id": "illager-arena",
+          "file_id": "TSsokZjD",
+          "source": "modrinth",
+          "from": "",
+          "file": "illager_arena-1.0.0 Fabric 26.1.jar",
+          "url": "https://cdn.modrinth.com/data/6Eq86tCy/versions/TSsokZjD/illager_arena-1.0.0%20Fabric%2026.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "AudioPlayer",
+          "image_url": "https://cdn.modrinth.com/data/SRlzjEBS/9525c545236accda2b3724df7bf8ffe9025112f0.png",
+          "type": "both",
+          "mod_id": "audioplayer",
+          "file_id": "fabric-2.2.0+26.1.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "audioplayer-fabric-2.2.0+26.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/UVK6lzoH/audioplayer-fabric-2.2.0%2B26.1.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
