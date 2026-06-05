@@ -342,20 +342,6 @@
           ]
         },
         {
-          "name": "Chat Heads",
-          "image_url": "https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png",
-          "type": "client",
-          "mod_id": "chat-heads",
-          "file_id": "SthQ7Tsn",
-          "source": "modrinth",
-          "from": "",
-          "file": "chat_heads-1.2.3-fabric-26.1.jar",
-          "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/SthQ7Tsn/chat_heads-1.2.3-fabric-26.1.jar",
-          "profiles": [
-            "Обычный"
-          ]
-        },
-        {
           "name": "Shulker Box Tooltip",
           "image_url": "https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp",
           "type": "client",
@@ -393,20 +379,6 @@
           "from": "",
           "file": "cloth-config-26.1.154.jar",
           "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/GFM8zh9J/cloth-config-26.1.154.jar",
-          "profiles": [
-            "Обычный"
-          ]
-        },
-        {
-          "name": "Chat Animation [Smooth Chat]",
-          "image_url": "https://cdn.modrinth.com/data/DnNYdJsx/f6b2002ed12e72c4d74d56b80fe768ae96cd4d24_96.webp",
-          "type": "client",
-          "mod_id": "chatanimation",
-          "file_id": "akCiimE9",
-          "source": "modrinth",
-          "from": "",
-          "file": "chatanimation-fabric-26.1-1.1.3.jar",
-          "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/akCiimE9/chatanimation-fabric-26.1-1.1.3.jar",
           "profiles": [
             "Обычный"
           ]
@@ -1204,20 +1176,6 @@
           ]
         },
         {
-          "name": "Punchy!",
-          "image_url": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
-          "type": "client",
-          "mod_id": "punchy-fpa",
-          "file_id": "6Ww9nCpy",
-          "source": "modrinth",
-          "from": "",
-          "file": "punchy-2.5.5-fabric-26.1-26.1.1-26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/6Ww9nCpy/punchy-2.5.5-fabric-26.1-26.1.1-26.1.2.jar",
-          "profiles": [
-            "Обычный"
-          ]
-        },
-        {
           "name": "Variants\u0026Ventures",
           "image_url": "https://cdn.modrinth.com/data/lNDRiXkY/bd6e91737946cf99c155c94108e98df8248e3078_96.webp",
           "type": "both",
@@ -1246,15 +1204,169 @@
           ]
         },
         {
-          "name": "Shine",
-          "image_url": "https://cdn.modrinth.com/data/uQgWIE6A/6e084c42cc4647ca8306728c21b5e315ad552898_96.webp",
-          "type": "client",
-          "mod_id": "shine",
-          "file_id": "2.0.0+26.1.x",
+          "name": "Tool Trims Mod",
+          "image_url": "https://cdn.modrinth.com/data/GqdixiwC/c3685121bd145cc5579a8cc32df7b816402b9c32.png",
+          "type": "both",
+          "mod_id": "tool-trims-mod",
+          "file_id": "1.4.0+mc26.1",
           "source": "modrinth",
           "from": "",
-          "file": "shine-2.0.0+26.1.x.jar",
-          "url": "https://cdn.modrinth.com/data/uQgWIE6A/versions/qyRsxqKr/shine-2.0.0%2B26.1.x.jar",
+          "file": "tooltrims-1.4.0+mc26.1.jar",
+          "url": "https://cdn.modrinth.com/data/GqdixiwC/versions/D8oLuL3J/tooltrims-1.4.0%2Bmc26.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Rails Revamped",
+          "image_url": "https://cdn.modrinth.com/data/ucJAutrz/44b0aa6f3b3160f517add9b43cce0386e02dcfa4.png",
+          "type": "both",
+          "mod_id": "rails-revamped",
+          "file_id": "0.2.2+mc26.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "rails-revamped-0.2.2+mc26.1.jar",
+          "url": "https://cdn.modrinth.com/data/ucJAutrz/versions/o6mrqM9o/rails-revamped-0.2.2%2Bmc26.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Trek",
+          "image_url": "https://cdn.modrinth.com/data/h2jngREY/e4d877248cf243e4e99cd71464417388ea332835_96.webp",
+          "type": "server",
+          "mod_id": "trek",
+          "file_id": "O1utQuJh",
+          "source": "modrinth",
+          "from": "",
+          "file": "trek-B0.6.1.1.jar",
+          "url": "https://cdn.modrinth.com/data/h2jngREY/versions/O1utQuJh/trek-B0.6.1.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Structures",
+          "image_url": "https://cdn.modrinth.com/data/6lxFhM2b/2cd7d875e51b14866d03822cdb0cbac3c14b2137_96.webp",
+          "type": "server",
+          "mod_id": "structures-mod",
+          "file_id": "bLroySN9",
+          "source": "modrinth",
+          "from": "",
+          "file": "structures-2.9-all.jar",
+          "url": "https://cdn.modrinth.com/data/6lxFhM2b/versions/bLroySN9/structures-2.9-all.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Clutter No More",
+          "image_url": "https://cdn.modrinth.com/data/ewyjbmG4/ca45ee00f0fe939930fa1a3dc6b3f94eda986827.gif",
+          "type": "both",
+          "mod_id": "clutter-no-more",
+          "file_id": "2.0.3+26.1.2-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "clutternomore-2.0.3+26.1.2-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/ewyjbmG4/versions/gWKj5LlU/clutternomore-2.0.3%2B26.1.2-fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "PatPat [Mod \u0026 Plugin]",
+          "image_url": "https://cdn.modrinth.com/data/dw7LChq9/125417ed34406a044dd53fdf9a7fdfe210a6fcf0_96.webp",
+          "type": "both",
+          "mod_id": "patpat",
+          "file_id": "1.2.6+26.1+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "PatPat-1.2.6+26.1+fabric.jar",
+          "url": "https://cdn.modrinth.com/data/dw7LChq9/versions/iPuMSKbb/PatPat-1.2.6%2B26.1%2Bfabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Improved Signs",
+          "image_url": "https://cdn.modrinth.com/data/tEcCNQe7/8781ec55e65d42144eb8e5ee6f9855c7421cff52.png",
+          "type": "server",
+          "mod_id": "improved-signs",
+          "file_id": "Uy3SVGX0",
+          "source": "modrinth",
+          "from": "",
+          "file": "improved-signs-1.6.0+mc26.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/tEcCNQe7/versions/Uy3SVGX0/improved-signs-1.6.0%2Bmc26.1.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Not Enough Trials",
+          "image_url": "https://cdn.modrinth.com/data/1W5PhsYU/a48c5978b8328bd81995d1df7d4068075b3b3bfb_96.webp",
+          "type": "server",
+          "mod_id": "not-enough-trials",
+          "file_id": "GoGLZr00",
+          "source": "modrinth",
+          "from": "",
+          "file": "NotEnoughTrials-1.21.11-v6.0.jar",
+          "url": "https://cdn.modrinth.com/data/1W5PhsYU/versions/GoGLZr00/NotEnoughTrials-1.21.11-v6.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Ride Together",
+          "image_url": "https://cdn.modrinth.com/data/5OpfEtF0/0565a0ff99adb7ada446c74aa6aaa1f12d145d96.png",
+          "type": "both",
+          "mod_id": "ride-together",
+          "file_id": "RO4xL82F",
+          "source": "modrinth",
+          "from": "",
+          "file": "ridetogether-fabric-1.0.2-26.1.jar",
+          "url": "https://cdn.modrinth.com/data/5OpfEtF0/versions/RO4xL82F/ridetogether-fabric-1.0.2-26.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Yori3o's Grappling Hooks",
+          "image_url": "https://cdn.modrinth.com/data/t1p8V2nl/1ea80fa3cdf14dfd560674c6af9b15f7b578468c_96.webp",
+          "type": "both",
+          "mod_id": "yori3os-grappling-hooks",
+          "file_id": "4.6.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "yo_hooks-4.6.0.jar",
+          "url": "https://cdn.modrinth.com/data/t1p8V2nl/versions/dGaSYYq7/yo_hooks-4.6.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "No Portals",
+          "image_url": "https://cdn.modrinth.com/data/ZzkyvOit/5d6f65df4357be0b1e40b216ef5c99404fc8b15f.png",
+          "type": "server",
+          "mod_id": "no-portals",
+          "file_id": "1.1.9",
+          "source": "modrinth",
+          "from": "",
+          "file": "no-portals-26.1-1.1.9.jar",
+          "url": "https://cdn.modrinth.com/data/ZzkyvOit/versions/GT6bBoW7/no-portals-26.1-1.1.9.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Scribble",
+          "image_url": "https://cdn.modrinth.com/data/yXAvIk0x/cf63f0295c57f6f2f14c51d8e1075de19e9f4f76.png",
+          "type": "client",
+          "mod_id": "scribble",
+          "file_id": "2.0.2+mc26.1.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "scribble-2.0.2+mc26.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/yXAvIk0x/versions/3oXyKyQF/scribble-2.0.2%2Bmc26.1.2.jar",
           "profiles": [
             "Обычный"
           ]
