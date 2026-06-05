@@ -1,6 +1,6 @@
 {
   "name": "CubeShield 11",
-  "description": "",
+  "description": "Новый сезон, стартующий уже летом 2026 года, в нем игроков ждет улучшенные госуслуги, выживание на острове посреди огромного океана, а также проработанная Vanilla+ сборка!",
   "loader": "fabric",
   "loader_version": "",
   "minecraft_version": "26.1.2",
@@ -76,7 +76,7 @@
           "file": "xaerominimap-fabric-26.1.2-25.3.14.jar",
           "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/65OfA4xM/xaerominimap-fabric-26.1.2-25.3.14.jar",
           "profiles": [
-            "Обычный"
+            "Минимальный"
           ]
         },
         {
@@ -90,7 +90,7 @@
           "file": "xaeroworldmap-fabric-26.1.2-1.40.18.jar",
           "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nvmFod7S/xaeroworldmap-fabric-26.1.2-1.40.18.jar",
           "profiles": [
-            "Обычный"
+            "Минимальный"
           ]
         },
         {
@@ -1404,11 +1404,113 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "Leash Fences",
+          "image_url": "https://cdn.modrinth.com/data/z0s7xHgL/6bf8f7e46959dd43ac5de0f3107dc6d79febb852_96.webp",
+          "type": "server",
+          "mod_id": "leash-fences",
+          "file_id": "JM5iKc2V",
+          "source": "modrinth",
+          "from": "",
+          "file": "leash-fences-v1.1.1.1.jar",
+          "url": "https://cdn.modrinth.com/data/z0s7xHgL/versions/JM5iKc2V/leash-fences-v1.1.1.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Antique Trading Ship",
+          "image_url": "https://cdn.modrinth.com/data/luvBs7J4/14a906ea93c4f80c44f738d6742942a05d8ac5d6_96.webp",
+          "type": "both",
+          "mod_id": "antique-trading-ship",
+          "file_id": "YpH6ecp3",
+          "source": "modrinth",
+          "from": "",
+          "file": "antique-trading-ship-1.0.0 Fabric 26.1.X.jar",
+          "url": "https://cdn.modrinth.com/data/luvBs7J4/versions/YpH6ecp3/antique-trading-ship-1.0.0%20Fabric%2026.1.X.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Illager Warship",
+          "image_url": "https://cdn.modrinth.com/data/tUpIHo95/ce8075956c4838784be73141aa9d260f882d54f9_96.webp",
+          "type": "both",
+          "mod_id": "illager-warship",
+          "file_id": "LE7iAjuI",
+          "source": "modrinth",
+          "from": "",
+          "file": "illagerwarship-1.0.0 fabric 26.1.jar",
+          "url": "https://cdn.modrinth.com/data/tUpIHo95/versions/LE7iAjuI/illagerwarship-1.0.0%20fabric%2026.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Roguelike Dungeons",
+          "image_url": "https://cdn.modrinth.com/data/MFpvbNGE/4791d0bc4bedb4842761dba0a48751c3cbe2302d_96.webp",
+          "type": "server",
+          "mod_id": "roguelikedungeons",
+          "file_id": "fabric-2.1.2+mc26.1.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "roguelike-dungeons-fabric-2.1.2+mc26.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/MFpvbNGE/versions/9nMqgyZn/roguelike-dungeons-fabric-2.1.2%2Bmc26.1.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Incendium",
+          "image_url": "https://cdn.modrinth.com/data/ZVzW5oNS/65c8dcaaf260e5b2182c228a1a442c792a7c4782.jpeg",
+          "type": "server",
+          "mod_id": "incendium",
+          "file_id": "5.4.12",
+          "source": "modrinth",
+          "from": "",
+          "file": "Incendium_26.1_v5.4.12.jar",
+          "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/dmD183NM/Incendium_26.1_v5.4.12.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Hopo Better Ruined Portals",
+          "image_url": "https://cdn.modrinth.com/data/hIpLSyga/c18b32bbd7b01814740838e39b00abfa0227dadd_96.webp",
+          "type": "server",
+          "mod_id": "hopo-better-ruined-portals",
+          "file_id": "1.5.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "HopoBetterRuinedPortals-[26.1]-1.5.0.jar",
+          "url": "https://cdn.modrinth.com/data/hIpLSyga/versions/cGc1KFZs/HopoBetterRuinedPortals-%5B26.1%5D-1.5.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Rustic Delight",
+          "image_url": "https://cdn.modrinth.com/data/foa4fGIH/eecc99e281522f2291081c48176f0faa84c107bc.png",
+          "type": "both",
+          "mod_id": "rustic-delight",
+          "file_id": "b6o7IHTq",
+          "source": "modrinth",
+          "from": "",
+          "file": "rusticdelight-fabric-26.1-1.6.0.jar",
+          "url": "https://cdn.modrinth.com/data/foa4fGIH/versions/b6o7IHTq/rusticdelight-fabric-26.1-1.6.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
     {
       "content_type": "resourcepacks",
+      "content": []
+    },
+    {
+      "content_type": "config",
       "content": []
     }
   ],
