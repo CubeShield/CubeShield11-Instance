@@ -1376,6 +1376,34 @@
           "profiles": [
             "Обычный"
           ]
+        },
+        {
+          "name": "Lithostitched",
+          "image_url": "https://cdn.modrinth.com/data/XaDC71GB/bc3425bcb318176adc7da99b6eec48787eed98d3.png",
+          "type": "server",
+          "mod_id": "lithostitched",
+          "file_id": "1.7.9-fabric-26.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "lithostitched-1.7.9-fabric-26.1.jar",
+          "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/BpryyUmm/lithostitched-1.7.9-fabric-26.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "MidnightLib",
+          "image_url": "https://cdn.modrinth.com/data/codAaoxh/76ce92742fea39dadbf9a68a389b4690f10ebd52_96.webp",
+          "type": "server",
+          "mod_id": "midnightlib",
+          "file_id": "1.9.3+26.1-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "midnightlib-fabric-1.9.3+26.1.jar",
+          "url": "https://cdn.modrinth.com/data/codAaoxh/versions/jcj4Ev6D/midnightlib-fabric-1.9.3%2B26.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
