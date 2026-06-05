@@ -1072,7 +1072,7 @@
         {
           "name": "Epic Structures: Villages",
           "image_url": "https://cdn.modrinth.com/data/4OeMBkiG/889d56b83fbab6e41f7421e0fad286c554c86ff4_96.webp",
-          "type": "client",
+          "type": "server",
           "mod_id": "epic-structures-villages",
           "file_id": "YeTKEH5c",
           "source": "modrinth",
@@ -1128,24 +1128,30 @@
         {
           "name": "Katters Structures - Dungeon",
           "image_url": "https://cdn.modrinth.com/data/VAVLEOBG/341f4e18ce1ac1943bbdcd2cd79fad77816066e1_96.webp",
-          "type": "both",
+          "type": "server",
           "mod_id": "katters-structures-only-dungeon",
           "file_id": "OwJV9sDO",
           "source": "modrinth",
           "from": "",
           "file": "katters-structures-only-dungeon-2.4.jar",
-          "url": "https://cdn.modrinth.com/data/VAVLEOBG/versions/OwJV9sDO/katters-structures-only-dungeon-2.4.jar"
+          "url": "https://cdn.modrinth.com/data/VAVLEOBG/versions/OwJV9sDO/katters-structures-only-dungeon-2.4.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         },
         {
           "name": "Epic Structures: Dungeons",
           "image_url": "https://cdn.modrinth.com/data/t0YT91nL/3638ec2bd51db3dc9f25337d7c4ebd6131da5e30_96.webp",
-          "type": "both",
+          "type": "server",
           "mod_id": "epic-structures-dungeons",
           "file_id": "59vSrRUg",
           "source": "modrinth",
           "from": "",
           "file": "epic-structures-dungeons-1.2.0.jar",
-          "url": "https://cdn.modrinth.com/data/t0YT91nL/versions/59vSrRUg/epic-structures-dungeons-1.2.0.jar"
+          "url": "https://cdn.modrinth.com/data/t0YT91nL/versions/59vSrRUg/epic-structures-dungeons-1.2.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         },
         {
           "name": "Fabric Language Kotlin",
