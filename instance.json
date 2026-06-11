@@ -342,20 +342,6 @@
           ]
         },
         {
-          "name": "Shulker Box Tooltip",
-          "image_url": "https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp",
-          "type": "client",
-          "mod_id": "shulkerboxtooltip",
-          "file_id": "5.3.0+26.1.1-fabric",
-          "source": "modrinth",
-          "from": "",
-          "file": "shulkerboxtooltip-fabric-5.3.0+26.1.1.jar",
-          "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/Yn66yzx3/shulkerboxtooltip-fabric-5.3.0%2B26.1.1.jar",
-          "profiles": [
-            "Обычный"
-          ]
-        },
-        {
           "name": "Bobby",
           "image_url": "https://cdn.modrinth.com/data/M08ruV16/icon.png",
           "type": "client",
@@ -1541,6 +1527,62 @@
           "from": "",
           "file": "audioplayer-fabric-2.2.0+26.1.2.jar",
           "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/UVK6lzoH/audioplayer-fabric-2.2.0%2B26.1.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Nullscape",
+          "image_url": "https://cdn.modrinth.com/data/LPjGiSO4/30249e0548b8643b1559889eab585683cb397f3a_96.webp",
+          "type": "server",
+          "mod_id": "nullscape",
+          "file_id": "1.2.19",
+          "source": "modrinth",
+          "from": "",
+          "file": "Nullscape_26.1_v1.2.19.jar",
+          "url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/E4kh5rGD/Nullscape_26.1_v1.2.19.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Easy Shulker Boxes",
+          "image_url": "https://cdn.modrinth.com/data/gA5euN8S/b317f8c98e0f5c3ad1c53ee5690c0c55c0de8fad_96.webp",
+          "type": "both",
+          "mod_id": "easy-shulker-boxes",
+          "file_id": "nWMpoViZ",
+          "source": "modrinth",
+          "from": "",
+          "file": "EasyShulkerBoxes-v26.1.0-mc26.1.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/gA5euN8S/versions/nWMpoViZ/EasyShulkerBoxes-v26.1.0-mc26.1.x-Fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Puzzles Lib",
+          "image_url": "https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp",
+          "type": "both",
+          "mod_id": "puzzles-lib",
+          "file_id": "ye9Zrmh4",
+          "source": "modrinth",
+          "from": "",
+          "file": "PuzzlesLib-v26.1.10-mc26.1.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/ye9Zrmh4/PuzzlesLib-v26.1.10-mc26.1.x-Fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Elytra Trims",
+          "image_url": "https://cdn.modrinth.com/data/XpzGz7KD/1d33b802dfb5a1b2d25a2490fe1a9df0a681d686_96.webp",
+          "type": "both",
+          "mod_id": "elytra-trims",
+          "file_id": "4.8.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "elytratrims-fabric-4.8.1+26.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/XQxMH0MK/elytratrims-fabric-4.8.1%2B26.1.2.jar",
           "profiles": [
             "Минимальный"
           ]
