@@ -1586,12 +1586,247 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "Respackopts",
+          "image_url": "https://cdn.modrinth.com/data/TiF5QWZY/16b68a9cf4a526e0b03e77310c98040ac2e6225c_96.webp",
+          "type": "client",
+          "mod_id": "respackopts",
+          "file_id": "26.1.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "respackopts-26.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/dU7TVFGF/respackopts-26.1.2.jar"
+        },
+        {
+          "name": "LibJF",
+          "image_url": "https://cdn.modrinth.com/data/WKwQAwke/icon.png",
+          "type": "client",
+          "mod_id": "libjf",
+          "file_id": "26.1.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "libjf-26.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/Icy7xbUM/libjf-26.1.2.jar"
+        },
+        {
+          "name": "No Resource Pack Warnings",
+          "image_url": "https://cdn.modrinth.com/data/6xKUDQcB/ec0ffca910eaf6c270e2e9ce31c9e2dbe6815671_96.webp",
+          "type": "client",
+          "mod_id": "no-resource-pack-warnings",
+          "file_id": "1.5.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "no-resource-pack-warnings-1.5.0.jar",
+          "url": "https://cdn.modrinth.com/data/6xKUDQcB/versions/1RaYV3Oy/no-resource-pack-warnings-1.5.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Zoomify (Zoom)",
+          "image_url": "https://cdn.modrinth.com/data/w7ThoJFB/e2de67a0bfb9e8aa2347982ab3ec5463f26cca31_96.webp",
+          "type": "client",
+          "mod_id": "zoomify",
+          "file_id": "2.16.0+26.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "zoomify-2.16.0+26.1.jar",
+          "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/3zi0VJPK/zoomify-2.16.0%2B26.1.jar"
         }
       ]
     },
     {
       "content_type": "resourcepacks",
-      "content": []
+      "content": [
+        {
+          "name": "Meme Cat Paintings",
+          "image_url": "https://cdn.modrinth.com/data/akvry1qk/1ac218afe4be7000a7367f200897b524ee7c98ab.png",
+          "type": "client",
+          "mod_id": "meme-cat-paintings",
+          "file_id": "2",
+          "source": "modrinth",
+          "from": "",
+          "file": "Meme Cat Paintings.zip",
+          "url": "https://cdn.modrinth.com/data/akvry1qk/versions/Lty6VSRl/Meme%20Cat%20Paintings.zip"
+        },
+        {
+          "name": "Motschen's Better Leaves",
+          "image_url": "https://cdn.modrinth.com/data/uvpymuxq/fe1a61998ae57dc6ad1a4bb028334c3c3925d22f_96.webp",
+          "type": "client",
+          "mod_id": "better-leaves",
+          "file_id": "9.5",
+          "source": "modrinth",
+          "from": "",
+          "file": "Better-Leaves-9.5.zip",
+          "url": "https://cdn.modrinth.com/data/uvpymuxq/versions/XWtayRKd/Better-Leaves-9.5.zip"
+        },
+        {
+          "name": "Fresh Animations",
+          "image_url": "https://cdn.modrinth.com/data/50dA9Sha/3132c10e9e3c73fde9799720fd3da5561071708c_96.webp",
+          "type": "client",
+          "mod_id": "fresh-animations",
+          "file_id": "1.10.5",
+          "source": "modrinth",
+          "from": "",
+          "file": "FreshAnimations_v1.10.5.zip",
+          "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/RGIzA5em/FreshAnimations_v1.10.5.zip"
+        },
+        {
+          "name": "Fresh Animations: Extensions",
+          "image_url": "https://cdn.modrinth.com/data/YAVTU8mK/2e83da75469cdec6d4558023cba611443b105c9e_96.webp",
+          "type": "client",
+          "mod_id": "fresh-animations-extensions",
+          "file_id": "1.9.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "FA+All_Extensions-v1.9.1.zip",
+          "url": "https://cdn.modrinth.com/data/YAVTU8mK/versions/GUxiXGXD/FA%2BAll_Extensions-v1.9.1.zip"
+        },
+        {
+          "name": "Fresh Animations: Details",
+          "image_url": "https://cdn.modrinth.com/data/lctgpCsu/27d8763b8080dab4143df69351a5b29ddf1910f4_96.webp",
+          "type": "client",
+          "mod_id": "fresh-animations-details",
+          "file_id": "2.3.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "FA+Details-v2.3.zip",
+          "url": "https://cdn.modrinth.com/data/lctgpCsu/versions/qZUQ2JxK/FA%2BDetails-v2.3.zip"
+        },
+        {
+          "name": "Fresh Animations: Player Extension",
+          "image_url": "https://cdn.modrinth.com/data/TAIMVZCL/b3918b1dcedad8987cac3715ec95d00aaadc3a49_96.webp",
+          "type": "client",
+          "mod_id": "fa-player-extension",
+          "file_id": "1.0.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "FA+Player-v1.0.zip",
+          "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/io7wLL8n/FA%2BPlayer-v1.0.zip"
+        },
+        {
+          "name": "Default Dark Mode",
+          "image_url": "https://cdn.modrinth.com/data/6SLU7tS5/f90001e4ebed860e7ae913f34c85d745f516a89b.png",
+          "type": "client",
+          "mod_id": "default-dark-mode",
+          "file_id": "2026.4.0-26.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "Default-Dark-Mode-26.1-2026.4.0.zip",
+          "url": "https://cdn.modrinth.com/data/6SLU7tS5/versions/lsJJZUFO/Default-Dark-Mode-26.1-2026.4.0.zip"
+        },
+        {
+          "name": "Simple Grass Flowers",
+          "image_url": "https://cdn.modrinth.com/data/ti9KkMHm/3d335c25a18ca44c7c2dd449eab25a7de82016eb.gif",
+          "type": "client",
+          "mod_id": "simple-grass-flowers",
+          "file_id": "1.9.6",
+          "source": "modrinth",
+          "from": "",
+          "file": "Simple Grass Flowers v1.9.6.zip",
+          "url": "https://cdn.modrinth.com/data/ti9KkMHm/versions/BFqp4P2V/Simple%20Grass%20Flowers%20v1.9.6.zip"
+        },
+        {
+          "name": "Enchantment Outlines",
+          "image_url": "https://cdn.modrinth.com/data/A32gwfe8/9f4bd3edfdb3df167c64757f66b828eba664a616_96.webp",
+          "type": "client",
+          "mod_id": "glowing-glints",
+          "file_id": "1.10.5",
+          "source": "modrinth",
+          "from": "",
+          "file": "Enchantment Outlines.zip",
+          "url": "https://cdn.modrinth.com/data/A32gwfe8/versions/3VHeGBV9/Enchantment%20Outlines.zip"
+        },
+        {
+          "name": "Vocal Villagers",
+          "image_url": "https://cdn.modrinth.com/data/SEt2q8cl/1a147bd5abb71c3ef2aea82bddd1c0558bc18130_96.webp",
+          "type": "client",
+          "mod_id": "vvi",
+          "file_id": "1.3",
+          "source": "modrinth",
+          "from": "",
+          "file": "§a§lVocal Villagers §r§71.3.zip",
+          "url": "https://cdn.modrinth.com/data/SEt2q8cl/versions/5z3uFKoA/%C2%A7a%C2%A7lVocal%20Villagers%20%C2%A7r%C2%A771.3.zip"
+        },
+        {
+          "name": "Fresh Flower Pots",
+          "image_url": "https://cdn.modrinth.com/data/CmEN0T1m/bc196f0f117015b3a976e82eee93f787d4fb4cec.png",
+          "type": "client",
+          "mod_id": "fresh-flower-pots",
+          "file_id": "1.5.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "§3Fresh §bFlower Pots.zip",
+          "url": "https://cdn.modrinth.com/data/CmEN0T1m/versions/8QUNaupx/%C2%A73Fresh%20%C2%A7bFlower%20Pots.zip"
+        },
+        {
+          "name": "Icons",
+          "image_url": "https://cdn.modrinth.com/data/O7z3QKAG/781618226a84b66b3dfc2dbb718d614315988be1_96.webp",
+          "type": "client",
+          "mod_id": "icons",
+          "file_id": "1.13.3",
+          "source": "modrinth",
+          "from": "",
+          "file": "Icons v.1.13.3.zip",
+          "url": "https://cdn.modrinth.com/data/O7z3QKAG/versions/yTuG7y8g/Icons%20v.1.13.3.zip"
+        },
+        {
+          "name": "Redstone Tweaks",
+          "image_url": "https://cdn.modrinth.com/data/RvfAlf4Z/1c867ab8044469c96c393420818acf7648d001b3_96.webp",
+          "type": "client",
+          "mod_id": "redstone-tweaks",
+          "file_id": "2.5.4",
+          "source": "modrinth",
+          "from": "",
+          "file": "Redstone Tweaks 2.5.4.zip",
+          "url": "https://cdn.modrinth.com/data/RvfAlf4Z/versions/87RqdzfV/Redstone%20Tweaks%202.5.4.zip"
+        },
+        {
+          "name": "Icons Removed ADS",
+          "image_url": "https://cdn.modrinth.com/data/7Rq0ipFz/b0753e82cf369625097e85353b0c2d0cdc28f448.png",
+          "type": "both",
+          "mod_id": "icons-advertisement-removal",
+          "file_id": "1.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "Icon Branding Remover - For 1.8-1.21.8.zip",
+          "url": "https://cdn.modrinth.com/data/7Rq0ipFz/versions/OXZb3ihp/Icon%20Branding%20Remover%20-%20For%201.8-1.21.8.zip"
+        },
+        {
+          "name": "Fat Cat",
+          "image_url": "https://cdn.modrinth.com/data/9ka8nUio/e8404968fbe01aa43d1883a34c98d43ea49f0aca.png",
+          "type": "client",
+          "mod_id": "fat-cat",
+          "file_id": "1.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "Fat Cat.zip",
+          "url": "https://cdn.modrinth.com/data/9ka8nUio/versions/APZ38UeW/Fat%20Cat.zip"
+        },
+        {
+          "name": "Fresh Buckets",
+          "image_url": "https://cdn.modrinth.com/data/Sb5mtr2w/f0a55a3be5fc766b249ffff78bccdfa2fd90e42b.gif",
+          "type": "both",
+          "mod_id": "fresh-buckets",
+          "file_id": "1.2.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "Fresh Buckets.zip",
+          "url": "https://cdn.modrinth.com/data/Sb5mtr2w/versions/MoIGtCs1/Fresh%20Buckets.zip"
+        },
+        {
+          "name": "Mace but 3D",
+          "image_url": "https://cdn.modrinth.com/data/r9aFsDLk/4d1fdff828ae43d6f1deece3dc372ffc1fb06232_96.webp",
+          "type": "both",
+          "mod_id": "mace-but-3d-resourcepack",
+          "file_id": "1.21.9+",
+          "source": "modrinth",
+          "from": "",
+          "file": "macebut3d-1.0.1.zip",
+          "url": "https://cdn.modrinth.com/data/r9aFsDLk/versions/awf1UkmW/macebut3d-1.0.1.zip"
+        }
+      ]
     },
     {
       "content_type": "config",
