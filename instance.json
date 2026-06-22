@@ -3,7 +3,7 @@
   "description": "Новый сезон, стартующий уже летом 2026 года, в нем игроков ждет улучшенные госуслуги, выживание на острове посреди огромного океана, а также проработанная Vanilla+ сборка!",
   "loader": "fabric",
   "loader_version": "",
-  "minecraft_version": "26.1.2",
+  "minecraft_version": "26.2",
   "image_url": "https://raw.githubusercontent.com/CubeShield/CubeShield11-Instance/main/logo.png",
   "containers": [
     {
@@ -14,11 +14,11 @@
           "image_url": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
           "type": "both",
           "mod_id": "fabric-api",
-          "file_id": "0.150.0+26.1.2",
+          "file_id": "0.153.0+26.2",
           "source": "modrinth",
           "from": "",
-          "file": "fabric-api-0.150.0+26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/E1mjhYMF/fabric-api-0.150.0%2B26.1.2.jar",
+          "file": "fabric-api-0.153.0+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/M8Kbv865/fabric-api-0.153.0%2B26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -70,11 +70,11 @@
           "image_url": "https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
           "type": "both",
           "mod_id": "xaeros-minimap",
-          "file_id": "fabric-26.1.2-25.3.14",
+          "file_id": "fabric-26.2-26.1.3",
           "source": "modrinth",
           "from": "",
-          "file": "xaerominimap-fabric-26.1.2-25.3.14.jar",
-          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/65OfA4xM/xaerominimap-fabric-26.1.2-25.3.14.jar",
+          "file": "xaerominimap-fabric-26.2-26.1.3.jar",
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/e1D3Ei69/xaerominimap-fabric-26.2-26.1.3.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -84,11 +84,11 @@
           "image_url": "https://cdn.modrinth.com/data/NcUtCpym/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
           "type": "both",
           "mod_id": "xaeros-world-map",
-          "file_id": "fabric-26.1.2-1.40.18",
+          "file_id": "fabric-26.2-1.41.2",
           "source": "modrinth",
           "from": "",
-          "file": "xaeroworldmap-fabric-26.1.2-1.40.18.jar",
-          "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nvmFod7S/xaeroworldmap-fabric-26.1.2-1.40.18.jar",
+          "file": "xaeroworldmap-fabric-26.2-1.41.2.jar",
+          "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/GpLXjdfA/xaeroworldmap-fabric-26.2-1.41.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -98,11 +98,11 @@
           "image_url": "https://cdn.modrinth.com/data/ohNO6lps/cb3b942cc18a66a0f35f802e004713f134e46cc2_96.webp",
           "type": "both",
           "mod_id": "forge-config-api-port",
-          "file_id": "mwAOaKnn",
+          "file_id": "rSd3GiG8",
           "source": "modrinth",
           "from": "",
-          "file": "ForgeConfigAPIPort-v26.1.4-mc26.1.x-Fabric.jar",
-          "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/mwAOaKnn/ForgeConfigAPIPort-v26.1.4-mc26.1.x-Fabric.jar",
+          "file": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/rSd3GiG8/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -112,11 +112,11 @@
           "image_url": "https://cdn.modrinth.com/data/gF3BGWvG/410c5443b268912b11709e7d03dd9ec3fda38ea5.png",
           "type": "both",
           "mod_id": "open-parties-and-claims",
-          "file_id": "fabric-26.1.2-0.26.3",
+          "file_id": "fabric-26.2-0.27.5",
           "source": "modrinth",
           "from": "",
-          "file": "open-parties-and-claims-fabric-26.1.2-0.26.3.jar",
-          "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/CHfI2OKD/open-parties-and-claims-fabric-26.1.2-0.26.3.jar",
+          "file": "open-parties-and-claims-fabric-26.2-0.27.5.jar",
+          "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/G39oiPVt/open-parties-and-claims-fabric-26.2-0.27.5.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -178,11 +178,11 @@
           "image_url": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
           "type": "client",
           "mod_id": "entityculling",
-          "file_id": "DhN0G638",
+          "file_id": "iiF6U3Ne",
           "source": "modrinth",
           "from": "",
-          "file": "entityculling-fabric-1.10.2-mc26.1.jar",
-          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/DhN0G638/entityculling-fabric-1.10.2-mc26.1.jar",
+          "file": "entityculling-fabric-1.10.5-mc26.2.jar",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/iiF6U3Ne/entityculling-fabric-1.10.5-mc26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -192,11 +192,11 @@
           "image_url": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
           "type": "both",
           "mod_id": "lithium",
-          "file_id": "mc26.1.2-0.24.4-fabric",
+          "file_id": "mc26.2-0.25.0-fabric",
           "source": "modrinth",
           "from": "",
-          "file": "lithium-fabric-0.24.4+mc26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/rzrH7czY/lithium-fabric-0.24.4%2Bmc26.1.2.jar",
+          "file": "lithium-fabric-0.25.0+mc26.2.jar",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/x1OEDMlF/lithium-fabric-0.25.0%2Bmc26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -206,11 +206,11 @@
           "image_url": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
           "type": "client",
           "mod_id": "immediatelyfast",
-          "file_id": "1.15.2+26.1.2-fabric",
+          "file_id": "1.16.0+26.2-fabric",
           "source": "modrinth",
           "from": "",
-          "file": "ImmediatelyFast-Fabric-1.15.2+26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/lRuSLf0Y/ImmediatelyFast-Fabric-1.15.2%2B26.1.2.jar",
+          "file": "ImmediatelyFast-Fabric-1.16.0+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/FQU5HWsp/ImmediatelyFast-Fabric-1.16.0%2B26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -220,11 +220,11 @@
           "image_url": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
           "type": "both",
           "mod_id": "yacl",
-          "file_id": "3.9.3+26.1-fabric",
+          "file_id": "3.9.4+26.2-fabric",
           "source": "modrinth",
           "from": "",
-          "file": "yet_another_config_lib_v3-3.9.3+26.1-fabric.jar",
-          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/hzww5Tor/yet_another_config_lib_v3-3.9.3%2B26.1-fabric.jar",
+          "file": "yet_another_config_lib_v3-3.9.4+26.2-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Sq2GH95j/yet_another_config_lib_v3-3.9.4%2B26.2-fabric.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -304,13 +304,14 @@
           "image_url": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png",
           "type": "both",
           "mod_id": "simple-voice-chat",
-          "file_id": "fabric-2.6.18+26.1.2",
+          "file_id": "fabric-2.6.20+26.2",
           "source": "modrinth",
           "from": "",
-          "file": "voicechat-fabric-2.6.18+26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/DpT86E4Q/voicechat-fabric-2.6.18%2B26.1.2.jar",
+          "file": "voicechat-fabric-2.6.20+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bvaEHE2T/voicechat-fabric-2.6.20%2B26.2.jar",
           "profiles": [
-            "Обычный"
+            "Обычный",
+            "Минимальный"
           ]
         },
         {
@@ -486,11 +487,11 @@
           "image_url": "https://cdn.modrinth.com/data/bcOsQHnC/536edde42ca493b0f19a2de71ce4cfbb5e5528af_96.webp",
           "type": "both",
           "mod_id": "female-gender",
-          "file_id": "5.0.0-Beta.3+26.1",
+          "file_id": "5.0.0-Beta.4+26.2",
           "source": "modrinth",
           "from": "",
-          "file": "Female-Gender-Mod-fabric-5.0.0-Beta.3+26.1.jar",
-          "url": "https://cdn.modrinth.com/data/bcOsQHnC/versions/YNCzD9UW/Female-Gender-Mod-fabric-5.0.0-Beta.3%2B26.1.jar",
+          "file": "Female-Gender-Mod-5.0.0-Beta.4+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/bcOsQHnC/versions/BGSsrIlj/Female-Gender-Mod-5.0.0-Beta.4%2B26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -514,11 +515,11 @@
           "image_url": "https://cdn.modrinth.com/data/7vxePowz/26e8448993e9bda4dba92b6e7a1a13d9c4333138.png",
           "type": "both",
           "mod_id": "farmers-delight-refabricated",
-          "file_id": "26.1-3.6.5",
+          "file_id": "26.2-3.6.6",
           "source": "modrinth",
           "from": "",
-          "file": "FarmersDelight-26.1-3.6.5+refabricated.jar",
-          "url": "https://cdn.modrinth.com/data/7vxePowz/versions/fjJnfO0r/FarmersDelight-26.1-3.6.5%2Brefabricated.jar",
+          "file": "FarmersDelight-26.2-3.6.6+refabricated.jar",
+          "url": "https://cdn.modrinth.com/data/7vxePowz/versions/ClzfHtwu/FarmersDelight-26.2-3.6.6%2Brefabricated.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -584,11 +585,11 @@
           "image_url": "https://cdn.modrinth.com/data/Guh4HXen/4e0b7b16f5b60457717af63acbf4e3cfd91e41fc_96.webp",
           "type": "both",
           "mod_id": "items-displayed",
-          "file_id": "1.3-26.1",
+          "file_id": "1.3-26.2",
           "source": "modrinth",
           "from": "",
-          "file": "ItemsDisplayed - v1.3-26.1.jar",
-          "url": "https://cdn.modrinth.com/data/Guh4HXen/versions/CdjaUigM/ItemsDisplayed%20-%20v1.3-26.1.jar",
+          "file": "ItemsDisplayed - v1.3-26.2.jar",
+          "url": "https://cdn.modrinth.com/data/Guh4HXen/versions/i0guSgb1/ItemsDisplayed%20-%20v1.3-26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1018,11 +1019,11 @@
           "image_url": "https://cdn.modrinth.com/data/1oUDhxuy/fef0b294bd97cb59292df315fa46013a6db76bd5_96.webp",
           "type": "server",
           "mod_id": "moogs-structure-lib",
-          "file_id": "7KmEEsVa",
+          "file_id": "3.0.1",
           "source": "modrinth",
           "from": "",
-          "file": "moogs_structure_lib-2.0.1-26.1.0-26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/1oUDhxuy/versions/7KmEEsVa/moogs_structure_lib-2.0.1-26.1.0-26.1.2.jar",
+          "file": "moogs_structures-fabric-26.2-3.0.1.jar",
+          "url": "https://cdn.modrinth.com/data/1oUDhxuy/versions/QbfNnjo9/moogs_structures-fabric-26.2-3.0.1.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1150,7 +1151,8 @@
           "file": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
           "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar",
           "profiles": [
-            "Обычный"
+            "Обычный",
+            "Минимальный"
           ]
         },
         {
@@ -1186,11 +1188,11 @@
           "image_url": "https://cdn.modrinth.com/data/SRlzjEBS/9525c545236accda2b3724df7bf8ffe9025112f0.png",
           "type": "server",
           "mod_id": "audioplayer",
-          "file_id": "fabric-2.2.0+26.1.2",
+          "file_id": "fabric-2.3.0+26.2",
           "source": "modrinth",
           "from": "",
-          "file": "audioplayer-fabric-2.2.0+26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/UVK6lzoH/audioplayer-fabric-2.2.0%2B26.1.2.jar",
+          "file": "audioplayer-fabric-2.3.0+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/wq8kEcV7/audioplayer-fabric-2.3.0%2B26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1200,25 +1202,11 @@
           "image_url": "https://cdn.modrinth.com/data/GqdixiwC/c3685121bd145cc5579a8cc32df7b816402b9c32.png",
           "type": "both",
           "mod_id": "tool-trims-mod",
-          "file_id": "1.4.0+mc26.1",
+          "file_id": "2.0.2+tt3.0.x+mc26.2",
           "source": "modrinth",
           "from": "",
-          "file": "tooltrims-1.4.0+mc26.1.jar",
-          "url": "https://cdn.modrinth.com/data/GqdixiwC/versions/D8oLuL3J/tooltrims-1.4.0%2Bmc26.1.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Rails Revamped",
-          "image_url": "https://cdn.modrinth.com/data/ucJAutrz/44b0aa6f3b3160f517add9b43cce0386e02dcfa4.png",
-          "type": "both",
-          "mod_id": "rails-revamped",
-          "file_id": "0.2.2+mc26.1",
-          "source": "modrinth",
-          "from": "",
-          "file": "rails-revamped-0.2.2+mc26.1.jar",
-          "url": "https://cdn.modrinth.com/data/ucJAutrz/versions/o6mrqM9o/rails-revamped-0.2.2%2Bmc26.1.jar",
+          "file": "tooltrims-2.0.2+tt3.0.x+mc26.2.jar",
+          "url": "https://cdn.modrinth.com/data/GqdixiwC/versions/sgtHZmt7/tooltrims-2.0.2%2Btt3.0.x%2Bmc26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1284,11 +1272,11 @@
           "image_url": "https://cdn.modrinth.com/data/tEcCNQe7/8781ec55e65d42144eb8e5ee6f9855c7421cff52.png",
           "type": "server",
           "mod_id": "improved-signs",
-          "file_id": "Uy3SVGX0",
+          "file_id": "pP9xYrIO",
           "source": "modrinth",
           "from": "",
-          "file": "improved-signs-1.6.0+mc26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/tEcCNQe7/versions/Uy3SVGX0/improved-signs-1.6.0%2Bmc26.1.2.jar",
+          "file": "improved-signs-1.6.0+mc26.2.jar",
+          "url": "https://cdn.modrinth.com/data/tEcCNQe7/versions/pP9xYrIO/improved-signs-1.6.0%2Bmc26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1424,11 +1412,11 @@
           "image_url": "https://cdn.modrinth.com/data/tUpIHo95/ce8075956c4838784be73141aa9d260f882d54f9_96.webp",
           "type": "both",
           "mod_id": "illager-warship",
-          "file_id": "LE7iAjuI",
+          "file_id": "XHS8rYwV",
           "source": "modrinth",
           "from": "",
-          "file": "illagerwarship-1.0.0 fabric 26.1.jar",
-          "url": "https://cdn.modrinth.com/data/tUpIHo95/versions/LE7iAjuI/illagerwarship-1.0.0%20fabric%2026.1.jar",
+          "file": "illagerwarship-1.0.0 fabric 26.2.jar",
+          "url": "https://cdn.modrinth.com/data/tUpIHo95/versions/XHS8rYwV/illagerwarship-1.0.0%20fabric%2026.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1494,11 +1482,11 @@
           "image_url": "https://cdn.modrinth.com/data/zkp424MG/c126b2250296df774e0cde79cc0a81c67302911c_96.webp",
           "type": "server",
           "mod_id": "illager-expansion-polymer",
-          "file_id": "1.10.0+26.1.1",
+          "file_id": "1.11.0+26.2",
           "source": "modrinth",
           "from": "",
-          "file": "illager_expansion-1.10.0+26.1.1.jar",
-          "url": "https://cdn.modrinth.com/data/zkp424MG/versions/qk1l3DzZ/illager_expansion-1.10.0%2B26.1.1.jar",
+          "file": "illager_expansion-1.11.0+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/zkp424MG/versions/MmOCtLYt/illager_expansion-1.11.0%2B26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1550,11 +1538,11 @@
           "image_url": "https://cdn.modrinth.com/data/gA5euN8S/b317f8c98e0f5c3ad1c53ee5690c0c55c0de8fad_96.webp",
           "type": "both",
           "mod_id": "easy-shulker-boxes",
-          "file_id": "nWMpoViZ",
+          "file_id": "4RYPu1vM",
           "source": "modrinth",
           "from": "",
-          "file": "EasyShulkerBoxes-v26.1.0-mc26.1.x-Fabric.jar",
-          "url": "https://cdn.modrinth.com/data/gA5euN8S/versions/nWMpoViZ/EasyShulkerBoxes-v26.1.0-mc26.1.x-Fabric.jar",
+          "file": "EasyShulkerBoxes-v26.2.1-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/gA5euN8S/versions/4RYPu1vM/EasyShulkerBoxes-v26.2.1-mc26.2.x-Fabric.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1564,11 +1552,11 @@
           "image_url": "https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp",
           "type": "both",
           "mod_id": "puzzles-lib",
-          "file_id": "ye9Zrmh4",
+          "file_id": "7NdidvUq",
           "source": "modrinth",
           "from": "",
-          "file": "PuzzlesLib-v26.1.10-mc26.1.x-Fabric.jar",
-          "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/ye9Zrmh4/PuzzlesLib-v26.1.10-mc26.1.x-Fabric.jar",
+          "file": "PuzzlesLib-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/7NdidvUq/PuzzlesLib-v26.2.0-mc26.2.x-Fabric.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1578,11 +1566,11 @@
           "image_url": "https://cdn.modrinth.com/data/XpzGz7KD/1d33b802dfb5a1b2d25a2490fe1a9df0a681d686_96.webp",
           "type": "both",
           "mod_id": "elytra-trims",
-          "file_id": "4.8.1",
+          "file_id": "tKGLQKLD",
           "source": "modrinth",
           "from": "",
-          "file": "elytratrims-fabric-4.8.1+26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/XQxMH0MK/elytratrims-fabric-4.8.1%2B26.1.2.jar",
+          "file": "elytratrims-fabric-4.8.2+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/tKGLQKLD/elytratrims-fabric-4.8.2%2B26.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1592,11 +1580,11 @@
           "image_url": "https://cdn.modrinth.com/data/TiF5QWZY/16b68a9cf4a526e0b03e77310c98040ac2e6225c_96.webp",
           "type": "client",
           "mod_id": "respackopts",
-          "file_id": "26.1.2",
+          "file_id": "26.2.0",
           "source": "modrinth",
           "from": "",
-          "file": "respackopts-26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/dU7TVFGF/respackopts-26.1.2.jar"
+          "file": "respackopts-26.2.0.jar",
+          "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/OzLY0sr0/respackopts-26.2.0.jar"
         },
         {
           "name": "LibJF",
