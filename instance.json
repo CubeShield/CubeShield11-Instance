@@ -1366,6 +1366,599 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "Rail Recipe Rebalance",
+          "image_url": "https://cdn.modrinth.com/data/qzAj3Hc0/abafaaaadce20efbf758471f3ac4b61df96653d2_96.webp",
+          "type": "server",
+          "mod_id": "rail-recipe-rebalance",
+          "file_id": "0.2.3+mod",
+          "source": "modrinth",
+          "from": "",
+          "file": "rail-recipe-rebalance-0.2.3.jar",
+          "url": "https://cdn.modrinth.com/data/qzAj3Hc0/versions/UqVsw4l2/rail-recipe-rebalance-0.2.3.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Litematica",
+          "image_url": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+          "type": "client",
+          "mod_id": "litematica",
+          "file_id": "0.28.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "litematica-fabric-26.2-0.28.1.jar",
+          "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/6oogmMDo/litematica-fabric-26.2-0.28.1.jar"
+        },
+        {
+          "name": "MaLiLib",
+          "image_url": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
+          "type": "client",
+          "mod_id": "malilib",
+          "file_id": "0.29.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "malilib-fabric-26.2-0.29.1.jar",
+          "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/jASomSor/malilib-fabric-26.2-0.29.1.jar"
+        },
+        {
+          "name": "Better Mount HUD",
+          "image_url": "https://cdn.modrinth.com/data/kqJFAPU9/2347cd97d4d4a5f87842dccebd8eba211d77d37a_96.webp",
+          "type": "client",
+          "mod_id": "better-mount-hud",
+          "file_id": "1.3.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "bettermounthud-1.3.1.jar",
+          "url": "https://cdn.modrinth.com/data/kqJFAPU9/versions/M3Fe5t0L/bettermounthud-1.3.1.jar"
+        },
+        {
+          "name": "Stonecutting Upgrade",
+          "image_url": "https://cdn.modrinth.com/data/ZCLuNtSF/22682daf7265b2cca44b931fc4b80d0b8a6e797c_96.webp",
+          "type": "client",
+          "mod_id": "stonecutting-upgrade",
+          "file_id": "26.2.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "StonecuttingUpgrade-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/ZCLuNtSF/versions/qHenKuWz/StonecuttingUpgrade-v26.2.0-mc26.2.x-Fabric.jar"
+        },
+        {
+          "name": "Cut Through",
+          "image_url": "https://cdn.modrinth.com/data/Dk6su9JN/7d3394c6c15bf9bdfe04fd25b317e237feac6c55_96.webp",
+          "type": "client",
+          "mod_id": "cut-through",
+          "file_id": "26.2.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "CutThrough-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/Dk6su9JN/versions/WhJ0S6SM/CutThrough-v26.2.0-mc26.2.x-Fabric.jar"
+        },
+        {
+          "name": "SulfurCubes+",
+          "image_url": "https://cdn.modrinth.com/data/7MGKLa7i/17e49f27fa7518f01fa1f0ce994f07693a0acafd.gif",
+          "type": "both",
+          "mod_id": "sulfurcubesplus",
+          "file_id": "1.0.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "sulfurcubesplus-1.0.0.jar",
+          "url": "https://cdn.modrinth.com/data/7MGKLa7i/versions/ENNppdHB/sulfurcubesplus-1.0.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Tiny Skeletons",
+          "image_url": "https://cdn.modrinth.com/data/A2xcMSUn/97c81f9c59f750725ad2177c74fa1d04f703287b_96.webp",
+          "type": "both",
+          "mod_id": "tiny-skeletons",
+          "file_id": "26.2.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "TinySkeletons-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/kRESfgnk/TinySkeletons-v26.2.0-mc26.2.x-Fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Armor Statues",
+          "image_url": "https://cdn.modrinth.com/data/bbGCtEvb/005eb8a0a3b751e6a595757743a7032353776f44_96.webp",
+          "type": "both",
+          "mod_id": "armor-statues",
+          "file_id": "26.2.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "ArmorStatues-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/bbGCtEvb/versions/OTrTFyqZ/ArmorStatues-v26.2.0-mc26.2.x-Fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Universal Enchants",
+          "image_url": "https://cdn.modrinth.com/data/DT56YDir/d700e23293f0608a9b03a721a9ffbc93c1b9f58d_96.webp",
+          "type": "server",
+          "mod_id": "universal-enchants",
+          "file_id": "26.2.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "UniversalEnchants-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/DT56YDir/versions/wxTX3R8G/UniversalEnchants-v26.2.0-mc26.2.x-Fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Skeleton AI Fix",
+          "image_url": "https://cdn.modrinth.com/data/jn24bUJo/b6bdf31124d740b4932ec1debc93d5251c5418b9_96.webp",
+          "type": "server",
+          "mod_id": "skeleton-ai-fix",
+          "file_id": "26.2.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "SkeletonAIFix-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/jn24bUJo/versions/v3akWq27/SkeletonAIFix-v26.2.0-mc26.2.x-Fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Dyed Flames",
+          "image_url": "https://cdn.modrinth.com/data/66H5fc9R/583cf7ee971d32bd2bd4a0a301e1f693d126936a_96.webp",
+          "type": "both",
+          "mod_id": "dyed-flames",
+          "file_id": "26.2.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "DyedFlames-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/66H5fc9R/versions/S9zWBTOW/DyedFlames-v26.2.0-mc26.2.x-Fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "RightClickHarvest",
+          "image_url": "https://cdn.modrinth.com/data/Cnejf5xM/b6e535989217836c2adc49b06f4b3c8f429afda3_96.webp",
+          "type": "client",
+          "mod_id": "rightclickharvest",
+          "file_id": "MMi9Zx44",
+          "source": "modrinth",
+          "from": "",
+          "file": "rightclickharvest-fabric-4.6.2+26.2.x.jar",
+          "url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/MMi9Zx44/rightclickharvest-fabric-4.6.2%2B26.2.x.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Sit!",
+          "image_url": "https://cdn.modrinth.com/data/EsYqsGV4/71461cf2b1d553f5d7217e1cabf03bf4e1e350f4.png",
+          "type": "server",
+          "mod_id": "sit!",
+          "file_id": "1.2.6.2+26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "sit!-1.2.6.2+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/k1DXWkqw/sit%21-1.2.6.2%2B26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Comfortable Campfires",
+          "image_url": "https://cdn.modrinth.com/data/lOZBoyio/ddb36aeb8419f3a5e260448c2e08ae4b689738b4_96.webp",
+          "type": "server",
+          "mod_id": "comfortable-campfires",
+          "file_id": "2.0.1+26.1-snapshot-10-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "comfortable_campfires-2.0.1+26.1-snapshot-10-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/lOZBoyio/versions/3dQrrBky/comfortable_campfires-2.0.1%2B26.1-snapshot-10-fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Crawl",
+          "image_url": "https://cdn.modrinth.com/data/H1JOVjhn/icon.png",
+          "type": "both",
+          "mod_id": "crawl",
+          "file_id": "fFM66ltD",
+          "source": "modrinth",
+          "from": "",
+          "file": "crawl-mc26.2-fabric-0.15.0.jar",
+          "url": "https://cdn.modrinth.com/data/H1JOVjhn/versions/fFM66ltD/crawl-mc26.2-fabric-0.15.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Ksyxis",
+          "image_url": "https://cdn.modrinth.com/data/2ecVyZ49/e7c3867d7a7da57f987bc0d6d37de88020c626a5_96.webp",
+          "type": "server",
+          "mod_id": "ksyxis",
+          "file_id": "1.4.3",
+          "source": "modrinth",
+          "from": "",
+          "file": "Ksyxis-1.4.3.jar",
+          "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/kL32PN9Q/Ksyxis-1.4.3.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Cool Rain",
+          "image_url": "https://cdn.modrinth.com/data/iDyqnQLT/a252e26685c30f1ae82a47b087b01fa6b968a6f1_96.webp",
+          "type": "client",
+          "mod_id": "coolrain",
+          "file_id": "1.4.0-26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "coolrain-1.4.0-26.2.jar",
+          "url": "https://cdn.modrinth.com/data/iDyqnQLT/versions/zc88gNk3/coolrain-1.4.0-26.2.jar"
+        },
+        {
+          "name": "Tool Stats",
+          "image_url": "https://cdn.modrinth.com/data/vuGFx44e/192346136bf85057e4602adade6eae5a324f7323.png",
+          "type": "client",
+          "mod_id": "tool-stats",
+          "file_id": "T7dQDdhA",
+          "source": "modrinth",
+          "from": "",
+          "file": "ToolStats-fabric-MC26.2-26.2.0.1.jar",
+          "url": "https://cdn.modrinth.com/data/vuGFx44e/versions/T7dQDdhA/ToolStats-fabric-MC26.2-26.2.0.1.jar"
+        },
+        {
+          "name": "Held Item Info",
+          "image_url": "https://cdn.modrinth.com/data/tEcWzCZz/39f285a000b8685703bfc5e6939f3f2fb49634f5.png",
+          "type": "client",
+          "mod_id": "held-item-info",
+          "file_id": "1.9.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "held-item-info-1.9.2.jar",
+          "url": "https://cdn.modrinth.com/data/tEcWzCZz/versions/bNAT9H23/held-item-info-1.9.2.jar"
+        },
+        {
+          "name": "Client Sort",
+          "image_url": "https://cdn.modrinth.com/data/K0AkAin6/7cf06458738334bd5d8cd77d086529d453f56ef6_96.webp",
+          "type": "client",
+          "mod_id": "clientsort",
+          "file_id": "aorjP22d",
+          "source": "modrinth",
+          "from": "",
+          "file": "clientsort-fabric-3.103.0+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/K0AkAin6/versions/aorjP22d/clientsort-fabric-3.103.0%2B26.2.jar"
+        },
+        {
+          "name": "Better Nether Map",
+          "image_url": "https://cdn.modrinth.com//data/fdtm99de/icon.png",
+          "type": "server",
+          "mod_id": "better-nether-map",
+          "file_id": "4.3.0+26.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "nethermap-4.3.0+26.1.jar",
+          "url": "https://cdn.modrinth.com/data/fdtm99de/versions/kyGtszbV/nethermap-4.3.0%2B26.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Spyglass Only HUD",
+          "image_url": "https://cdn.modrinth.com/data/QcFGZGs4/f2d5787b9139ddf134ababe2b7ae8c67a66ed3fa.png",
+          "type": "client",
+          "mod_id": "spyglass-only-hud",
+          "file_id": "ovs3I4Kr",
+          "source": "modrinth",
+          "from": "",
+          "file": "spyglass-only-hud-1.2.0-26.2-pre-2.jar",
+          "url": "https://cdn.modrinth.com/data/QcFGZGs4/versions/ovs3I4Kr/spyglass-only-hud-1.2.0-26.2-pre-2.jar"
+        },
+        {
+          "name": "CalcMod",
+          "image_url": "https://cdn.modrinth.com/data/XoHTb2Ap/fe87f9fb4d48afbe539314b17e1be68ba242e58a.gif",
+          "type": "server",
+          "mod_id": "calcmod",
+          "file_id": "1.5.2+fabric.26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "calcmod-1.5.2+fabric.26.2.jar",
+          "url": "https://cdn.modrinth.com/data/XoHTb2Ap/versions/qyk9ZGgC/calcmod-1.5.2%2Bfabric.26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Glowing Torchflower",
+          "image_url": "https://cdn.modrinth.com/data/1S4LxcvL/1f9c9e25304cd5c32ab9c818863bf3318df98a46.png",
+          "type": "both",
+          "mod_id": "glowing-torchflower",
+          "file_id": "848mgAxR",
+          "source": "modrinth",
+          "from": "",
+          "file": "glowing-torchflower-26.2-1.3.0.jar",
+          "url": "https://cdn.modrinth.com/data/1S4LxcvL/versions/848mgAxR/glowing-torchflower-26.2-1.3.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Tax Free Levels",
+          "image_url": "https://cdn.modrinth.com/data/jCBrrLTs/icon.png",
+          "type": "both",
+          "mod_id": "tax-free-levels",
+          "file_id": "nnOm34tW",
+          "source": "modrinth",
+          "from": "",
+          "file": "TaxFreeLevels-1.5.4-fabric-26.1.jar",
+          "url": "https://cdn.modrinth.com/data/jCBrrLTs/versions/nnOm34tW/TaxFreeLevels-1.5.4-fabric-26.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Punchy!",
+          "image_url": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
+          "type": "client",
+          "mod_id": "punchy-fpa",
+          "file_id": "hZSyD3ZR",
+          "source": "modrinth",
+          "from": "",
+          "file": "punchy-2.5.7-fabric-26.2.jar",
+          "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/hZSyD3ZR/punchy-2.5.7-fabric-26.2.jar"
+        },
+        {
+          "name": "More Chat History",
+          "image_url": "https://cdn.modrinth.com/data/8qkXwOnk/icon.png",
+          "type": "client",
+          "mod_id": "morechathistory",
+          "file_id": "2.0.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "morechathistory-2.0.0.jar",
+          "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/qpDhYv1Y/morechathistory-2.0.0.jar"
+        },
+        {
+          "name": "Vehicle Upgrade",
+          "image_url": "https://cdn.modrinth.com/data/9B9c6QcJ/8d0a106288af9c9c91bcb37dddb882df156f3377_96.webp",
+          "type": "both",
+          "mod_id": "vehicle-upgrade",
+          "file_id": "26.2.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "VehicleUpgrade-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/9B9c6QcJ/versions/Rb4bgnhi/VehicleUpgrade-v26.2.0-mc26.2.x-Fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Borderless Fullscreen",
+          "image_url": "https://cdn.modrinth.com/data/UIexcMP1/2d578a1f4d4bebebf19c7847eb9a1575a8a0b825_96.webp",
+          "type": "client",
+          "mod_id": "borderless-fullscreen",
+          "file_id": "2.4.1-26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "BorderlessFullscreen-v2.4.1-mc26.2.jar",
+          "url": "https://cdn.modrinth.com/data/UIexcMP1/versions/SRaSZqo0/BorderlessFullscreen-v2.4.1-mc26.2.jar"
+        },
+        {
+          "name": "Break Free",
+          "image_url": "https://cdn.modrinth.com/data/Xlr5lMDF/c62b3c9ab358aeef60001bbc87f3b658ea000d23_96.webp",
+          "type": "client",
+          "mod_id": "breakfree",
+          "file_id": "1.5.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "breakfree-1.5.1.jar",
+          "url": "https://cdn.modrinth.com/data/Xlr5lMDF/versions/WUBobDKx/breakfree-1.5.1.jar"
+        },
+        {
+          "name": "Keep My Soil Tilled",
+          "image_url": "https://cdn.modrinth.com/data/OC5Zubbe/3267eb5c895aba79777b5719fc26d50cd3547def_96.webp",
+          "type": "server",
+          "mod_id": "keep-my-soil-tilled",
+          "file_id": "26.2.0-2.6-fabric+forge+neo",
+          "source": "modrinth",
+          "from": "",
+          "file": "keepmysoiltilled-26.2.0-2.6.jar",
+          "url": "https://cdn.modrinth.com/data/OC5Zubbe/versions/dLdnCWjy/keepmysoiltilled-26.2.0-2.6.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Collective",
+          "image_url": "https://cdn.modrinth.com/data/e0M1UDsY/f5e4fe9ac298e2c14591920d6bda937c566accd0_96.webp",
+          "type": "server",
+          "mod_id": "collective",
+          "file_id": "26.2.0-8.30-fabric+forge+neo",
+          "source": "modrinth",
+          "from": "",
+          "file": "collective-26.2.0-8.30.jar",
+          "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/tJVsljd6/collective-26.2.0-8.30.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Invisible Frames",
+          "image_url": "https://cdn.modrinth.com/data/QD87oMUf/55da1702b1835d0cfe3c6a01b867142731a93b6d.png",
+          "type": "server",
+          "mod_id": "invisible-frames-mod",
+          "file_id": "2.0.1+26.2-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "invisibleframes-fabric-2.0.1+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/QD87oMUf/versions/ELIgkzTp/invisibleframes-fabric-2.0.1%2B26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Real Arrow Tip",
+          "image_url": "https://cdn.modrinth.com/data/vgVfk0m2/229b86aa99be7ca47987c72d87338808171d1563.png",
+          "type": "client",
+          "mod_id": "real-arrow-tip",
+          "file_id": "0.3.1+mc26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "real-arrow-tip-0.3.1+mc26.2.jar",
+          "url": "https://cdn.modrinth.com/data/vgVfk0m2/versions/GqhOlhir/real-arrow-tip-0.3.1%2Bmc26.2.jar"
+        },
+        {
+          "name": "Locator Heads",
+          "image_url": "https://cdn.modrinth.com/data/L4pt5egz/933e270e6b68639189f618948f11d3828597df39.png",
+          "type": "client",
+          "mod_id": "locator-heads",
+          "file_id": "2.4.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "locator-heads-2.4.1.jar",
+          "url": "https://cdn.modrinth.com/data/L4pt5egz/versions/Ti3iZri6/locator-heads-2.4.1.jar"
+        },
+        {
+          "name": "Image2Map",
+          "image_url": "https://cdn.modrinth.com/data/13RpG7dA/501cb456e7a651d84b489047ed51aa42234b14b9_96.webp",
+          "type": "server",
+          "mod_id": "image2map",
+          "file_id": "0.14.0+26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "image2map-0.14.0+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/13RpG7dA/versions/RKJFfwTN/image2map-0.14.0%2B26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Improved Signs",
+          "image_url": "https://cdn.modrinth.com/data/tEcCNQe7/8781ec55e65d42144eb8e5ee6f9855c7421cff52.png",
+          "type": "server",
+          "mod_id": "improved-signs",
+          "file_id": "pP9xYrIO",
+          "source": "modrinth",
+          "from": "",
+          "file": "improved-signs-1.6.0+mc26.2.jar",
+          "url": "https://cdn.modrinth.com/data/tEcCNQe7/versions/pP9xYrIO/improved-signs-1.6.0%2Bmc26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Banner Flags",
+          "image_url": "https://cdn.modrinth.com/data/cCStmVIN/9684ec94b146503cb4ab0210b367cbb313c648da_96.webp",
+          "type": "server",
+          "mod_id": "banner-flags",
+          "file_id": "3.2+mod",
+          "source": "modrinth",
+          "from": "",
+          "file": "banner-flags-3.2.jar",
+          "url": "https://cdn.modrinth.com/data/cCStmVIN/versions/yo3InCKg/banner-flags-3.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Ledger",
+          "image_url": "https://cdn.modrinth.com/data/LVN9ygNV/919c0c39af397c4e62b6980018e31e9f763bf6d5_96.webp",
+          "type": "server",
+          "mod_id": "ledger",
+          "file_id": "1.3.23",
+          "source": "modrinth",
+          "from": "",
+          "file": "ledger-1.3.23.jar",
+          "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/KpVLPOJk/ledger-1.3.23.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "No Enderman Grief",
+          "image_url": "https://cdn.modrinth.com/data/ss02V75k/f3792ed72df871aa36dcd189128c31f7ab07ba2f_96.webp",
+          "type": "server",
+          "mod_id": "no-enderman-grief",
+          "file_id": "v3.0.6+mod",
+          "source": "modrinth",
+          "from": "",
+          "file": "no-enderman-grief-v3.0.6.jar",
+          "url": "https://cdn.modrinth.com/data/ss02V75k/versions/kidbxS5q/no-enderman-grief-v3.0.6.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Illager Invasion",
+          "image_url": "https://cdn.modrinth.com/data/jSV9w0J5/03f8cea7f5184d88454f7bf63f2b3c3a85577b1e_96.webp",
+          "type": "both",
+          "mod_id": "illager-invasion",
+          "file_id": "1EML9Osa",
+          "source": "modrinth",
+          "from": "",
+          "file": "IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/1EML9Osa/IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Amethyst Nether",
+          "image_url": "https://cdn.modrinth.com/data/9EFaPoo8/4dd815ebfbd448502c89719084832bba4adde73b_96.webp",
+          "type": "server",
+          "mod_id": "amethyst-nether",
+          "file_id": "v4.3.1+mod",
+          "source": "modrinth",
+          "from": "",
+          "file": "amethyst-nether-v4.3.1.jar",
+          "url": "https://cdn.modrinth.com/data/9EFaPoo8/versions/YePlpGI1/amethyst-nether-v4.3.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "JamLib",
+          "image_url": "https://cdn.modrinth.com/data/IYY9Siz8/7585f4d35b18467c2d0d9c496e3b7cd4919c413a_96.webp",
+          "type": "server",
+          "mod_id": "jamlib",
+          "file_id": "4KQpfS7o",
+          "source": "modrinth",
+          "from": "",
+          "file": "jamlib-fabric-2.3.1+26.2.x.jar",
+          "url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/4KQpfS7o/jamlib-fabric-2.3.1%2B26.2.x.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "OtterLib",
+          "image_url": "https://cdn.modrinth.com/data/zVVpzurY/98184fe23504496333c1e58b6ed401a81b1da797_96.webp",
+          "type": "server",
+          "mod_id": "otterlib",
+          "file_id": "0.3.0.1+26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "otterlib-0.3.0.1+26.2-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/zVVpzurY/versions/7thwoNTE/otterlib-0.3.0.1%2B26.2-fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Prickle",
+          "image_url": "https://cdn.modrinth.com/data/aaRl8GiW/36749d1d2d87d14d7f703b18e8726c7b78057abb.png",
+          "type": "client",
+          "mod_id": "prickle",
+          "file_id": "bszUzTDd",
+          "source": "modrinth",
+          "from": "",
+          "file": "PrickleMC-fabric-MC26.2-26.2.0.2.jar",
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/bszUzTDd/PrickleMC-fabric-MC26.2-26.2.0.2.jar"
         }
       ]
     },
@@ -1558,20 +2151,6 @@
           "from": "",
           "file": "macebut3d-1.0.1.zip",
           "url": "https://cdn.modrinth.com/data/r9aFsDLk/versions/awf1UkmW/macebut3d-1.0.1.zip"
-        },
-        {
-          "name": "Illager Invasion",
-          "image_url": "https://cdn.modrinth.com/data/jSV9w0J5/03f8cea7f5184d88454f7bf63f2b3c3a85577b1e_96.webp",
-          "type": "both",
-          "mod_id": "illager-invasion",
-          "file_id": "1EML9Osa",
-          "source": "modrinth",
-          "from": "",
-          "file": "IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar",
-          "url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/1EML9Osa/IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar",
-          "profiles": [
-            "Минимальный"
-          ]
         }
       ]
     },
