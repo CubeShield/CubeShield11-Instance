@@ -1998,6 +1998,34 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "Delight Lib",
+          "image_url": "https://cdn.modrinth.com/data/rmDY6fYt/3f8cf9b61d0353d810dd89520c45c19642b33674.png",
+          "type": "both",
+          "mod_id": "delight-lib",
+          "file_id": "26.06.23-26.2-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "delightlib-26.06.23-26.2-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/rmDY6fYt/versions/SjphfJS9/delightlib-26.06.23-26.2-fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "More Delight (for Farmer's Delight)",
+          "image_url": "https://cdn.modrinth.com/data/znHQQtuU/a0b97c0306ac9507bca7b81059fb146051596e08.gif",
+          "type": "both",
+          "mod_id": "more-delight",
+          "file_id": "26.06.23-26.2-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "moredelight-26.06.23-26.2-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/znHQQtuU/versions/RcXOnDXk/moredelight-26.06.23-26.2-fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
