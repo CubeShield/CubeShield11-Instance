@@ -1959,6 +1959,45 @@
           "from": "",
           "file": "PrickleMC-fabric-MC26.2-26.2.0.2.jar",
           "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/bszUzTDd/PrickleMC-fabric-MC26.2-26.2.0.2.jar"
+        },
+        {
+          "name": "Soft Imprints",
+          "image_url": "https://cdn.modrinth.com/data/UhxJgB1o/7ccfeb3ec71c51e7928a1b16a46bc1fa76eae8a1.png",
+          "type": "client",
+          "mod_id": "snow-imprints",
+          "file_id": "V6FwX7rN",
+          "source": "modrinth",
+          "from": "",
+          "file": "softimprints-fabric-26.2-2.5.15.jar",
+          "url": "https://cdn.modrinth.com/data/UhxJgB1o/versions/V6FwX7rN/softimprints-fabric-26.2-2.5.15.jar"
+        },
+        {
+          "name": "Hostile Mobs Improve Over Time",
+          "image_url": "https://cdn.modrinth.com/data/ku4JD9TH/127f5701737f3457fe17351ceb694bdb8a394fdc.png",
+          "type": "server",
+          "mod_id": "hostile-mobs-improve-over-time",
+          "file_id": "2.2+mod",
+          "source": "modrinth",
+          "from": "",
+          "file": "hostile-mobs-improve-over-time-2.2.jar",
+          "url": "https://cdn.modrinth.com/data/ku4JD9TH/versions/EfQTKuh2/hostile-mobs-improve-over-time-2.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "CubeCore",
+          "image_url": "",
+          "type": "server",
+          "mod_id": "",
+          "file_id": "",
+          "source": "url",
+          "from": "",
+          "file": "CubeCore-2.0.0.jar",
+          "url": "https://github.com/CubeShield/CubeCore/releases/download/v2.0.0/CubeCore-2.0.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
