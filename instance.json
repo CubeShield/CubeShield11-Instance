@@ -2026,6 +2026,48 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "EasyAuth",
+          "image_url": "https://cdn.modrinth.com/data/aZj58GfX/6943fb21c56d19e5ce7e12ebdff6ec3e7f1e8e4b_96.webp",
+          "type": "server",
+          "mod_id": "easyauth",
+          "file_id": "3.4.3-SNAPSHOT.49",
+          "source": "modrinth",
+          "from": "",
+          "file": "easyauth-mc26.2-3.4.3-SNAPSHOT.49.jar",
+          "url": "https://cdn.modrinth.com/data/aZj58GfX/versions/brHsihQ7/easyauth-mc26.2-3.4.3-SNAPSHOT.49.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "TAB",
+          "image_url": "https://cdn.modrinth.com/data/gG7VFbG0/4a7fcab5db748296adac920926efff93b1da416d_96.webp",
+          "type": "server",
+          "mod_id": "tab-was-taken",
+          "file_id": "9MFZMaVD",
+          "source": "modrinth",
+          "from": "",
+          "file": "TAB v6.1.0.jar",
+          "url": "https://cdn.modrinth.com/data/gG7VFbG0/versions/9MFZMaVD/TAB%20v6.1.0.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Styled Chat",
+          "image_url": "https://cdn.modrinth.com/data/doqSKB0e/bab343cc1b3e814755ace1a98c89e1ced8ae1a15.png",
+          "type": "server",
+          "mod_id": "styled-chat",
+          "file_id": "2.13.0+26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "styled-chat-2.13.0+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/doqSKB0e/versions/A7ihc7ss/styled-chat-2.13.0%2B26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
