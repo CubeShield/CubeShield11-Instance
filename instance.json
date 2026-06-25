@@ -949,11 +949,11 @@
           "image_url": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
           "type": "client",
           "mod_id": "fabric-language-kotlin",
-          "file_id": "1.13.11+kotlin.2.3.21",
+          "file_id": "1.13.12+kotlin.2.4.0",
           "source": "modrinth",
           "from": "",
-          "file": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
-          "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar",
+          "file": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+          "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
           "profiles": [
             "Обычный",
             "Минимальный"
@@ -1993,8 +1993,8 @@
           "file_id": "",
           "source": "url",
           "from": "",
-          "file": "CubeCore-2.0.0.jar",
-          "url": "https://github.com/CubeShield/CubeCore/releases/download/v2.0.0/CubeCore-2.0.0.jar",
+          "file": "CubeCore-2.0.1.jar",
+          "url": "https://github.com/CubeShield/CubeCore/releases/download/v2.0.1/CubeCore-2.0.1.jar",
           "profiles": [
             "Минимальный"
           ]
