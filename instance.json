@@ -1184,20 +1184,6 @@
           ]
         },
         {
-          "name": "AudioPlayer",
-          "image_url": "https://cdn.modrinth.com/data/SRlzjEBS/9525c545236accda2b3724df7bf8ffe9025112f0.png",
-          "type": "both",
-          "mod_id": "audioplayer",
-          "file_id": "fabric-2.2.0+26.1.2",
-          "source": "modrinth",
-          "from": "",
-          "file": "audioplayer-fabric-2.2.0+26.1.2.jar",
-          "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/UVK6lzoH/audioplayer-fabric-2.2.0%2B26.1.2.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "Easy Shulker Boxes",
           "image_url": "https://cdn.modrinth.com/data/gA5euN8S/b317f8c98e0f5c3ad1c53ee5690c0c55c0de8fad_96.webp",
           "type": "both",
@@ -1512,7 +1498,7 @@
         {
           "name": "RightClickHarvest",
           "image_url": "https://cdn.modrinth.com/data/Cnejf5xM/b6e535989217836c2adc49b06f4b3c8f429afda3_96.webp",
-          "type": "client",
+          "type": "server",
           "mod_id": "rightclickharvest",
           "file_id": "MMi9Zx44",
           "source": "modrinth",
