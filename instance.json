@@ -1982,8 +1982,8 @@
           "file_id": "",
           "source": "url",
           "from": "",
-          "file": "CubeCore-2.0.1.jar",
-          "url": "https://github.com/CubeShield/CubeCore/releases/download/v2.0.1/CubeCore-2.0.1.jar",
+          "file": "CubeCore-2.0.2.jar",
+          "url": "https://github.com/CubeShield/CubeCore/releases/download/v2.0.2/CubeCore-2.0.2.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -2012,20 +2012,6 @@
           "from": "",
           "file": "moredelight-26.06.23-26.2-fabric.jar",
           "url": "https://cdn.modrinth.com/data/znHQQtuU/versions/RcXOnDXk/moredelight-26.06.23-26.2-fabric.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "EasyAuth",
-          "image_url": "https://cdn.modrinth.com/data/aZj58GfX/6943fb21c56d19e5ce7e12ebdff6ec3e7f1e8e4b_96.webp",
-          "type": "server",
-          "mod_id": "easyauth",
-          "file_id": "3.4.3-SNAPSHOT.49",
-          "source": "modrinth",
-          "from": "",
-          "file": "easyauth-mc26.2-3.4.3-SNAPSHOT.49.jar",
-          "url": "https://cdn.modrinth.com/data/aZj58GfX/versions/brHsihQ7/easyauth-mc26.2-3.4.3-SNAPSHOT.49.jar",
           "profiles": [
             "Минимальный"
           ]
