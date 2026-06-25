@@ -947,7 +947,7 @@
         {
           "name": "Fabric Language Kotlin",
           "image_url": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
-          "type": "client",
+          "type": "both",
           "mod_id": "fabric-language-kotlin",
           "file_id": "1.13.12+kotlin.2.4.0",
           "source": "modrinth",
