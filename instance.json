@@ -2068,6 +2068,34 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "Skin Restorer",
+          "image_url": "https://cdn.modrinth.com/data/ghrZDhGW/f5bc55cd7b07f988b5f28d7d3f0a4c8e9f480bc1_96.webp",
+          "type": "server",
+          "mod_id": "skinrestorer",
+          "file_id": "2.8.1+26.1-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "skinrestorer-2.8.1+26.1-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/rgcYRGDt/skinrestorer-2.8.1%2B26.1-fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "LuckPerms",
+          "image_url": "https://cdn.modrinth.com/data/Vebnzrzj/90943902cc650e95b167265b8f2d7c893f82c8f4_96.webp",
+          "type": "server",
+          "mod_id": "luckperms",
+          "file_id": "v5.5.57-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "LuckPerms-Fabric-5.5.57.jar",
+          "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/UHUghDkV/LuckPerms-Fabric-5.5.57.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
