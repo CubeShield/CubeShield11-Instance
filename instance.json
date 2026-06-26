@@ -1610,20 +1610,6 @@
           "url": "https://cdn.modrinth.com/data/K0AkAin6/versions/aorjP22d/clientsort-fabric-3.103.0%2B26.2.jar"
         },
         {
-          "name": "Better Nether Map",
-          "image_url": "https://cdn.modrinth.com//data/fdtm99de/icon.png",
-          "type": "server",
-          "mod_id": "better-nether-map",
-          "file_id": "4.3.0+26.1",
-          "source": "modrinth",
-          "from": "",
-          "file": "nethermap-4.3.0+26.1.jar",
-          "url": "https://cdn.modrinth.com/data/fdtm99de/versions/kyGtszbV/nethermap-4.3.0%2B26.1.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "Spyglass Only HUD",
           "image_url": "https://cdn.modrinth.com/data/QcFGZGs4/f2d5787b9139ddf134ababe2b7ae8c67a66ed3fa.png",
           "type": "client",
