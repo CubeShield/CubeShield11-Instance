@@ -40,7 +40,7 @@
         {
           "name": "Text Placeholder API",
           "image_url": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
-          "type": "both",
+          "type": "server",
           "mod_id": "placeholder-api",
           "file_id": "NDqH16LT",
           "source": "modrinth",
@@ -48,7 +48,8 @@
           "file": "placeholder-api-3.1.0-beta.1+26.2.jar",
           "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar",
           "profiles": [
-            "Обычный"
+            "Обычный",
+            "Минимальный"
           ]
         },
         {
