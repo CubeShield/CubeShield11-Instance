@@ -2043,6 +2043,20 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "Aurora's Lanterns",
+          "image_url": "https://cdn.modrinth.com/data/xABbFTq3/847edae09611081c6455b1bd76726d1389db3526.png",
+          "type": "both",
+          "mod_id": "auroraslanterns",
+          "file_id": "2.1.0+26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "auroraslanterns-2.1.0+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/xABbFTq3/versions/vlGXXgVd/auroraslanterns-2.1.0%2B26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
