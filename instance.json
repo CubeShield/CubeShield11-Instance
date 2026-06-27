@@ -582,20 +582,6 @@
           ]
         },
         {
-          "name": "Explosive Enhancement",
-          "image_url": "https://cdn.modrinth.com/data/OSQ8mw2r/88f44e9ed022061b1eb865996b2f98fe01937de6.png",
-          "type": "client",
-          "mod_id": "explosive-enhancement",
-          "file_id": "1.4.2-26.1.1",
-          "source": "modrinth",
-          "from": "",
-          "file": "explosive-enhancement-1.4.2-26.1.1.jar",
-          "url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/IFzOg4ts/explosive-enhancement-1.4.2-26.1.1.jar",
-          "profiles": [
-            "Обычный"
-          ]
-        },
-        {
           "name": "Polymer",
           "image_url": "https://cdn.modrinth.com/data/xGdtZczs/icon.png",
           "type": "server",
