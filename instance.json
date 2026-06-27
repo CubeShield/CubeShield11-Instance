@@ -1885,7 +1885,7 @@
         {
           "name": "JamLib",
           "image_url": "https://cdn.modrinth.com/data/IYY9Siz8/7585f4d35b18467c2d0d9c496e3b7cd4919c413a_96.webp",
-          "type": "both",
+          "type": "server",
           "mod_id": "jamlib",
           "file_id": "4KQpfS7o",
           "source": "modrinth",
