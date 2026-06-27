@@ -508,7 +508,8 @@
           "file": "jei-26.2-fabric-30.1.0.12.jar",
           "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/efSLhEh7/jei-26.2-fabric-30.1.0.12.jar",
           "profiles": [
-            "Обычный"
+            "Обычный",
+            "Минимальный"
           ]
         },
         {
