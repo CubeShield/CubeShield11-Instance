@@ -1336,7 +1336,10 @@
           "source": "modrinth",
           "from": "",
           "file": "punchy-2.5.7-fabric-26.2.jar",
-          "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/hZSyD3ZR/punchy-2.5.7-fabric-26.2.jar"
+          "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/hZSyD3ZR/punchy-2.5.7-fabric-26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         },
         {
           "name": "More Chat History",
