@@ -1694,6 +1694,224 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "No Crop Trample",
+          "image_url": "https://cdn.modrinth.com/data/ovK1G5ym/0941a5dc2158e3b0d3f177bd829905cfe38ef213.png",
+          "type": "both",
+          "mod_id": "no-crop-trample",
+          "file_id": "J3ioEyyu",
+          "source": "modrinth",
+          "from": "",
+          "file": "no-crop-trample-2.jar",
+          "url": "https://cdn.modrinth.com/data/ovK1G5ym/versions/J3ioEyyu/no-crop-trample-2.jar"
+        },
+        {
+          "name": "Anvil Too Expensive Fix",
+          "image_url": "https://cdn.modrinth.com/data/MDKUiifD/8dd57a1cf9c04690706f0e4c301cf34b20128152.png",
+          "type": "both",
+          "mod_id": "anvil-too-expensive-fix",
+          "file_id": "1.1.0+26.X",
+          "source": "modrinth",
+          "from": "",
+          "file": "anvil-too-expensive-fix-1.1.0+26.X.jar",
+          "url": "https://cdn.modrinth.com/data/MDKUiifD/versions/lkqQdu99/anvil-too-expensive-fix-1.1.0%2B26.X.jar"
+        },
+        {
+          "name": "Roughly Enough Items (REI)",
+          "image_url": "https://cdn.modrinth.com/data/nfn13YXA/54ac5daa4166011bae713448e84413987316433a_96.webp",
+          "type": "server",
+          "mod_id": "rei",
+          "file_id": "26.2.820+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "RoughlyEnoughItems-26.2.820.jar",
+          "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/4o0NSIMj/RoughlyEnoughItems-26.2.820.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Architectury API",
+          "image_url": "https://cdn.modrinth.com/data/lhGA9TYQ/05fe3a61c28faaccaec3533b92e1b321edde7bf6_96.webp",
+          "type": "server",
+          "mod_id": "architectury-api",
+          "file_id": "21.0.2+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "architectury-fabric-21.0.2.jar",
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/OVFwpVeQ/architectury-fabric-21.0.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Grind enchantments",
+          "image_url": "https://cdn.modrinth.com/data/WC4UgDcZ/7cde0e287f7eb17517d645fdc5904acb708779b8_96.webp",
+          "type": "server",
+          "mod_id": "grind-enchantments",
+          "file_id": "4.1.0+26.1.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "grind-enchantments-4.1.0+26.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/WC4UgDcZ/versions/mf3SB5iV/grind-enchantments-4.1.0%2B26.1.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Clumps",
+          "image_url": "https://cdn.modrinth.com/data/Wnxd13zP/6a965bb7974c3e759a53a1c89c35de4acd4cf86a_96.webp",
+          "type": "server",
+          "mod_id": "clumps",
+          "file_id": "26.2.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "Clumps-fabric-26.2-26.2.1.jar",
+          "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/dEMopoOJ/Clumps-fabric-26.2-26.2.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "NoRollback",
+          "image_url": "https://cdn.modrinth.com/data/K4Ytaql5/c9c6468f3880174b51edcea4758ee782d3dbea28_96.webp",
+          "type": "server",
+          "mod_id": "norollback",
+          "file_id": "lzxlW8xq",
+          "source": "modrinth",
+          "from": "",
+          "file": "NoRollback 2.1 (26.1-26.2).jar",
+          "url": "https://cdn.modrinth.com/data/K4Ytaql5/versions/lzxlW8xq/NoRollback%202.1%20%2826.1-26.2%29.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Storage Delight",
+          "image_url": "https://cdn.modrinth.com/data/LTTvOp5L/ea2f931c89c74b97d60df0a8048bea679a8123a8.gif",
+          "type": "server",
+          "mod_id": "storage-delight",
+          "file_id": "26.06.19-26.2-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "storagedelight-26.06.19-26.2-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/LTTvOp5L/versions/1L9FGQ5G/storagedelight-26.06.19-26.2-fabric.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Emotecraft",
+          "image_url": "https://cdn.modrinth.com/data/pZ2wrerK/eed7e2c9851392e5879c7d7cb763f142f124e6d2_96.webp",
+          "type": "both",
+          "mod_id": "emotecraft",
+          "file_id": "3.4.0-b.build.153",
+          "source": "modrinth",
+          "from": "",
+          "file": "emotecraft-for-MC26.2-3.4.0-b.build.153.jar",
+          "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/hWkVx9pM/emotecraft-for-MC26.2-3.4.0-b.build.153.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Player Animation Library",
+          "image_url": "https://cdn.modrinth.com/data/ha1mEyJS/c1fae260a9377cfb05692f01135b6ca2b7b682c7_96.webp",
+          "type": "both",
+          "mod_id": "player-animation-library",
+          "file_id": "g8XDqDTi",
+          "source": "modrinth",
+          "from": "",
+          "file": "PlayerAnimationLibMerged-1.2.4+mc.26.2.jar",
+          "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/g8XDqDTi/PlayerAnimationLibMerged-1.2.4%2Bmc.26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Voice Messages",
+          "image_url": "https://cdn.modrinth.com/data/WWLeFuHa/755d0a7e838752c525c19e906c91e8d34c7ef60e.png",
+          "type": "both",
+          "mod_id": "voicemessages",
+          "file_id": "fabric-1.0.12-26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "voicemessages-fabric-1.0.12-26.2.jar",
+          "url": "https://cdn.modrinth.com/data/WWLeFuHa/versions/xTQOa66I/voicemessages-fabric-1.0.12-26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Room For Two",
+          "image_url": "https://cdn.modrinth.com/data/YZlvzIFq/c34d5cac906429f46a40e6be57a11feb6a5499b7.png",
+          "type": "both",
+          "mod_id": "room-for-two",
+          "file_id": "Bhc1nSFf",
+          "source": "modrinth",
+          "from": "",
+          "file": "roomfortwo-fabric-26.2-0.1.1.jar",
+          "url": "https://cdn.modrinth.com/data/YZlvzIFq/versions/Bhc1nSFf/roomfortwo-fabric-26.2-0.1.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Voice Chat Interaction",
+          "image_url": "https://cdn.modrinth.com/data/qsSP2ZZ0/icon.png",
+          "type": "server",
+          "mod_id": "voice-chat-interaction",
+          "file_id": "fabric-1.0.8+26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "vcinteraction-fabric-1.0.8+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/luUS5Hod/vcinteraction-fabric-1.0.8%2B26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Colorful Trims",
+          "image_url": "https://cdn.modrinth.com/data/hCf7CjRg/bbd1ab4afced7bee819b98f91c9cba9c4e3b459b.png",
+          "type": "both",
+          "mod_id": "colorful-trims",
+          "file_id": "1.10.1+mod",
+          "source": "modrinth",
+          "from": "",
+          "file": "colorful-trims-1.10.1.jar",
+          "url": "https://cdn.modrinth.com/data/hCf7CjRg/versions/O7O972iZ/colorful-trims-1.10.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Audaki Cart Engine (Faster Minecarts)",
+          "image_url": "https://cdn.modrinth.com/data/V8qsCwta/26bf844d39237fc7ff65a51885a7a15c13992973_96.webp",
+          "type": "server",
+          "mod_id": "audaki-cart-engine",
+          "file_id": "5.0.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "ACE_mc26.2-5.0.1.jar",
+          "url": "https://cdn.modrinth.com/data/V8qsCwta/versions/xnXxitQi/ACE_mc26.2-5.0.1.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Minecart Chain",
+          "image_url": "https://cdn.modrinth.com/data/woRvLa6r/de262b2d3736171524848623dfa204841efe8465_96.webp",
+          "type": "both",
+          "mod_id": "minecart-chain",
+          "file_id": "1.0.12",
+          "source": "modrinth",
+          "from": "",
+          "file": "minecart-chain-1.0.12.jar",
+          "url": "https://cdn.modrinth.com/data/woRvLa6r/versions/zDzvFPLK/minecart-chain-1.0.12.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
