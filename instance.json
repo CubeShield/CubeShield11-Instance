@@ -498,21 +498,6 @@
           ]
         },
         {
-          "name": "Just Enough Items (JEI)",
-          "image_url": "https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp",
-          "type": "both",
-          "mod_id": "jei",
-          "file_id": "30.1.0.12",
-          "source": "modrinth",
-          "from": "",
-          "file": "jei-26.2-fabric-30.1.0.12.jar",
-          "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/efSLhEh7/jei-26.2-fabric-30.1.0.12.jar",
-          "profiles": [
-            "Обычный",
-            "Минимальный"
-          ]
-        },
-        {
           "name": "Items Displayed [Fabric]",
           "image_url": "https://cdn.modrinth.com/data/Guh4HXen/4e0b7b16f5b60457717af63acbf4e3cfd91e41fc_96.webp",
           "type": "both",
@@ -681,20 +666,6 @@
           ]
         },
         {
-          "name": "Towns and Towers",
-          "image_url": "https://cdn.modrinth.com/data/DjLobEOy/f7f552ec019c9ad8b777c9ab5eecbb95da8707a0_96.webp",
-          "type": "server",
-          "mod_id": "towns-and-towers",
-          "file_id": "1.13.11",
-          "source": "modrinth",
-          "from": "",
-          "file": "t_and_t-fabric-neoforge-1.13.11.jar",
-          "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/eN3WLQ3P/t_and_t-fabric-neoforge-1.13.11.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "Repurposed Structures - Fabric",
           "image_url": "https://cdn.modrinth.com/data/muf0XoRe/icon.png",
           "type": "server",
@@ -709,34 +680,6 @@
           ]
         },
         {
-          "name": "Explorify",
-          "image_url": "https://cdn.modrinth.com/data/HSfsxuTo/e036a417f857abd937326db5c131296ad88bad5b_96.webp",
-          "type": "server",
-          "mod_id": "explorify",
-          "file_id": "CuBdAr31",
-          "source": "modrinth",
-          "from": "",
-          "file": "Explorify v1.6.5.mod.jar",
-          "url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/CuBdAr31/Explorify%20v1.6.5.mod.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Structory: Towers",
-          "image_url": "https://cdn.modrinth.com/data/j3FONRYr/e7d6877a7b7a03680383fd1a1fdd3496604e372a_96.webp",
-          "type": "server",
-          "mod_id": "structory-towers",
-          "file_id": "ioKwCTuD",
-          "source": "modrinth",
-          "from": "",
-          "file": "Structory_Towers_26.1_v1.0.16.jar",
-          "url": "https://cdn.modrinth.com/data/j3FONRYr/versions/ioKwCTuD/Structory_Towers_26.1_v1.0.16.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "Structory",
           "image_url": "https://cdn.modrinth.com/data/aKCwCJlY/81c79a9d58c605ad79c4a8da15c865902bec8d42_96.webp",
           "type": "server",
@@ -746,20 +689,6 @@
           "from": "",
           "file": "Structory_26.1_v1.3.16.jar",
           "url": "https://cdn.modrinth.com/data/aKCwCJlY/versions/Nvh2sSPX/Structory_26.1_v1.3.16.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Dungeons and Taverns",
-          "image_url": "https://cdn.modrinth.com/data/tpehi7ww/429ba22d212868940cdd82465df949ac51c9791e_96.webp",
-          "type": "server",
-          "mod_id": "dungeons-and-taverns",
-          "file_id": "5.3.0+mod",
-          "source": "modrinth",
-          "from": "",
-          "file": "dungeons-and-taverns-5.3.0.jar",
-          "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kejPgknA/dungeons-and-taverns-5.3.0.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -835,48 +764,6 @@
           ]
         },
         {
-          "name": "MinGen",
-          "image_url": "https://cdn.modrinth.com/data/FyLFHdlz/f804ee1d3770a63f99cb7247c170bfe2ed7e3060_96.webp",
-          "type": "server",
-          "mod_id": "mingen",
-          "file_id": "eZoRyZ7g",
-          "source": "modrinth",
-          "from": "",
-          "file": "mingen-v6.9.6.jar",
-          "url": "https://cdn.modrinth.com/data/FyLFHdlz/versions/eZoRyZ7g/mingen-v6.9.6.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Epic Structures: Villages",
-          "image_url": "https://cdn.modrinth.com/data/4OeMBkiG/889d56b83fbab6e41f7421e0fad286c554c86ff4_96.webp",
-          "type": "server",
-          "mod_id": "epic-structures-villages",
-          "file_id": "YeTKEH5c",
-          "source": "modrinth",
-          "from": "",
-          "file": "epic-structures-villages-1.3.0.jar",
-          "url": "https://cdn.modrinth.com/data/4OeMBkiG/versions/YeTKEH5c/epic-structures-villages-1.3.0.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Grim kingdoms: Lost structures \u0026 ruins",
-          "image_url": "https://cdn.modrinth.com/data/f4d4E9De/5dfa0f6a0fb794a0c5c74296b45842587990dee3_96.webp",
-          "type": "server",
-          "mod_id": "grim-kingdoms-lost-structures-ruins",
-          "file_id": "SJSK4VBR",
-          "source": "modrinth",
-          "from": "",
-          "file": "grim-kingdoms-lost-structures-ruins-v1.0.3.jar",
-          "url": "https://cdn.modrinth.com/data/f4d4E9De/versions/SJSK4VBR/grim-kingdoms-lost-structures-ruins-v1.0.3.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "Small Structures",
           "image_url": "https://cdn.modrinth.com/data/lPdj3MdS/cda06a80cbcc0cd436974c400522d49832f5b4fa_96.webp",
           "type": "server",
@@ -886,48 +773,6 @@
           "from": "",
           "file": "SmallStructures-0.2-1.21.9+UNIVERSAL.jar",
           "url": "https://cdn.modrinth.com/data/lPdj3MdS/versions/4TvkxKl8/SmallStructures-0.2-1.21.9%2BUNIVERSAL.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Dungeons+",
-          "image_url": "https://cdn.modrinth.com/data/nHORcEHd/1b5d79c6ec1b033725352efbb83bac451efaba85.png",
-          "type": "server",
-          "mod_id": "dungeons+",
-          "file_id": "1.12.0+mod",
-          "source": "modrinth",
-          "from": "",
-          "file": "dungeons+-1.12.0.jar",
-          "url": "https://cdn.modrinth.com/data/nHORcEHd/versions/VT75yixL/dungeons%2B-1.12.0.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Katters Structures - Dungeon",
-          "image_url": "https://cdn.modrinth.com/data/VAVLEOBG/341f4e18ce1ac1943bbdcd2cd79fad77816066e1_96.webp",
-          "type": "server",
-          "mod_id": "katters-structures-only-dungeon",
-          "file_id": "tw0MWiEJ",
-          "source": "modrinth",
-          "from": "",
-          "file": "Katters Structures Only Dungeons v2.5.jar",
-          "url": "https://cdn.modrinth.com/data/VAVLEOBG/versions/tw0MWiEJ/Katters%20Structures%20Only%20Dungeons%20v2.5.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Epic Structures: Dungeons",
-          "image_url": "https://cdn.modrinth.com/data/t0YT91nL/3638ec2bd51db3dc9f25337d7c4ebd6131da5e30_96.webp",
-          "type": "server",
-          "mod_id": "epic-structures-dungeons",
-          "file_id": "59vSrRUg",
-          "source": "modrinth",
-          "from": "",
-          "file": "epic-structures-dungeons-1.2.0.jar",
-          "url": "https://cdn.modrinth.com/data/t0YT91nL/versions/59vSrRUg/epic-structures-dungeons-1.2.0.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1004,34 +849,6 @@
           ]
         },
         {
-          "name": "Trek",
-          "image_url": "https://cdn.modrinth.com/data/h2jngREY/e4d877248cf243e4e99cd71464417388ea332835_96.webp",
-          "type": "server",
-          "mod_id": "trek",
-          "file_id": "O1utQuJh",
-          "source": "modrinth",
-          "from": "",
-          "file": "trek-B0.6.1.1.jar",
-          "url": "https://cdn.modrinth.com/data/h2jngREY/versions/O1utQuJh/trek-B0.6.1.1.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Structures",
-          "image_url": "https://cdn.modrinth.com/data/6lxFhM2b/2cd7d875e51b14866d03822cdb0cbac3c14b2137_96.webp",
-          "type": "server",
-          "mod_id": "structures-mod",
-          "file_id": "bLroySN9",
-          "source": "modrinth",
-          "from": "",
-          "file": "structures-2.9-all.jar",
-          "url": "https://cdn.modrinth.com/data/6lxFhM2b/versions/bLroySN9/structures-2.9-all.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "Improved Signs",
           "image_url": "https://cdn.modrinth.com/data/tEcCNQe7/8781ec55e65d42144eb8e5ee6f9855c7421cff52.png",
           "type": "server",
@@ -1041,20 +858,6 @@
           "from": "",
           "file": "improved-signs-1.6.0+mc26.2.jar",
           "url": "https://cdn.modrinth.com/data/tEcCNQe7/versions/pP9xYrIO/improved-signs-1.6.0%2Bmc26.2.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Not Enough Trials",
-          "image_url": "https://cdn.modrinth.com/data/1W5PhsYU/a48c5978b8328bd81995d1df7d4068075b3b3bfb_96.webp",
-          "type": "server",
-          "mod_id": "not-enough-trials",
-          "file_id": "TmoVW2PN",
-          "source": "modrinth",
-          "from": "",
-          "file": "NotEnoughTrials-26.2-v6.0.jar",
-          "url": "https://cdn.modrinth.com/data/1W5PhsYU/versions/TmoVW2PN/NotEnoughTrials-26.2-v6.0.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1139,34 +942,6 @@
           "from": "",
           "file": "leash-fences-v1.1.1.1.jar",
           "url": "https://cdn.modrinth.com/data/z0s7xHgL/versions/JM5iKc2V/leash-fences-v1.1.1.1.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Illager Warship",
-          "image_url": "https://cdn.modrinth.com/data/tUpIHo95/ce8075956c4838784be73141aa9d260f882d54f9_96.webp",
-          "type": "both",
-          "mod_id": "illager-warship",
-          "file_id": "XHS8rYwV",
-          "source": "modrinth",
-          "from": "",
-          "file": "illagerwarship-1.0.0 fabric 26.2.jar",
-          "url": "https://cdn.modrinth.com/data/tUpIHo95/versions/XHS8rYwV/illagerwarship-1.0.0%20fabric%2026.2.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Hopo Better Ruined Portals",
-          "image_url": "https://cdn.modrinth.com/data/hIpLSyga/c18b32bbd7b01814740838e39b00abfa0227dadd_96.webp",
-          "type": "server",
-          "mod_id": "hopo-better-ruined-portals",
-          "file_id": "1.5.0",
-          "source": "modrinth",
-          "from": "",
-          "file": "HopoBetterRuinedPortals-[26.1]-1.5.0.jar",
-          "url": "https://cdn.modrinth.com/data/hIpLSyga/versions/cGc1KFZs/HopoBetterRuinedPortals-%5B26.1%5D-1.5.0.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1264,20 +1039,6 @@
           ]
         },
         {
-          "name": "Villager Warship",
-          "image_url": "https://cdn.modrinth.com/data/EUrpZYCv/530d81b9074c9df871d6befaa21999e592cfaec7_96.webp",
-          "type": "both",
-          "mod_id": "villager-warship",
-          "file_id": "JMQR6oHm",
-          "source": "modrinth",
-          "from": "",
-          "file": "villager_warship-1.0.0 fabric 26.2.jar",
-          "url": "https://cdn.modrinth.com/data/EUrpZYCv/versions/JMQR6oHm/villager_warship-1.0.0%20fabric%2026.2.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "Respackopts",
           "image_url": "https://cdn.modrinth.com/data/TiF5QWZY/16b68a9cf4a526e0b03e77310c98040ac2e6225c_96.webp",
           "type": "client",
@@ -1312,20 +1073,6 @@
           "from": "",
           "file": "MoogsVoyagerStructures-1.21-5.0.11.jar",
           "url": "https://cdn.modrinth.com/data/OQAgZMH1/versions/cvepxaBC/MoogsVoyagerStructures-1.21-5.0.11.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "MNS - Moog's Nether Structures",
-          "image_url": "https://cdn.modrinth.com/data/nGUXvjTa/986323910fb5330e8799031fb59a6a42260625dc_96.webp",
-          "type": "server",
-          "mod_id": "mns-moogs-nether-structures",
-          "file_id": "RFeEhpv4",
-          "source": "modrinth",
-          "from": "",
-          "file": "MoogsNetherStructures-1.21-3.0.0.jar",
-          "url": "https://cdn.modrinth.com/data/nGUXvjTa/versions/RFeEhpv4/MoogsNetherStructures-1.21-3.0.0.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1442,34 +1189,6 @@
           ]
         },
         {
-          "name": "Universal Enchants",
-          "image_url": "https://cdn.modrinth.com/data/DT56YDir/d700e23293f0608a9b03a721a9ffbc93c1b9f58d_96.webp",
-          "type": "server",
-          "mod_id": "universal-enchants",
-          "file_id": "26.2.0",
-          "source": "modrinth",
-          "from": "",
-          "file": "UniversalEnchants-v26.2.0-mc26.2.x-Fabric.jar",
-          "url": "https://cdn.modrinth.com/data/DT56YDir/versions/wxTX3R8G/UniversalEnchants-v26.2.0-mc26.2.x-Fabric.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Skeleton AI Fix",
-          "image_url": "https://cdn.modrinth.com/data/jn24bUJo/b6bdf31124d740b4932ec1debc93d5251c5418b9_96.webp",
-          "type": "server",
-          "mod_id": "skeleton-ai-fix",
-          "file_id": "26.2.0",
-          "source": "modrinth",
-          "from": "",
-          "file": "SkeletonAIFix-v26.2.0-mc26.2.x-Fabric.jar",
-          "url": "https://cdn.modrinth.com/data/jn24bUJo/versions/v3akWq27/SkeletonAIFix-v26.2.0-mc26.2.x-Fabric.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "Dyed Flames",
           "image_url": "https://cdn.modrinth.com/data/66H5fc9R/583cf7ee971d32bd2bd4a0a301e1f693d126936a_96.webp",
           "type": "both",
@@ -1507,20 +1226,6 @@
           "from": "",
           "file": "sit!-1.2.6.2+26.2.jar",
           "url": "https://cdn.modrinth.com/data/EsYqsGV4/versions/k1DXWkqw/sit%21-1.2.6.2%2B26.2.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Comfortable Campfires",
-          "image_url": "https://cdn.modrinth.com/data/lOZBoyio/ddb36aeb8419f3a5e260448c2e08ae4b689738b4_96.webp",
-          "type": "server",
-          "mod_id": "comfortable-campfires",
-          "file_id": "2.0.1+26.1-snapshot-10-fabric",
-          "source": "modrinth",
-          "from": "",
-          "file": "comfortable_campfires-2.0.1+26.1-snapshot-10-fabric.jar",
-          "url": "https://cdn.modrinth.com/data/lOZBoyio/versions/3dQrrBky/comfortable_campfires-2.0.1%2B26.1-snapshot-10-fabric.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1632,20 +1337,6 @@
           "from": "",
           "file": "glowing-torchflower-26.2-1.3.0.jar",
           "url": "https://cdn.modrinth.com/data/1S4LxcvL/versions/848mgAxR/glowing-torchflower-26.2-1.3.0.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Tax Free Levels",
-          "image_url": "https://cdn.modrinth.com/data/jCBrrLTs/icon.png",
-          "type": "both",
-          "mod_id": "tax-free-levels",
-          "file_id": "nnOm34tW",
-          "source": "modrinth",
-          "from": "",
-          "file": "TaxFreeLevels-1.5.4-fabric-26.1.jar",
-          "url": "https://cdn.modrinth.com/data/jCBrrLTs/versions/nnOm34tW/TaxFreeLevels-1.5.4-fabric-26.1.jar",
           "profiles": [
             "Минимальный"
           ]
@@ -1843,34 +1534,6 @@
           ]
         },
         {
-          "name": "Illager Invasion",
-          "image_url": "https://cdn.modrinth.com/data/jSV9w0J5/03f8cea7f5184d88454f7bf63f2b3c3a85577b1e_96.webp",
-          "type": "both",
-          "mod_id": "illager-invasion",
-          "file_id": "1EML9Osa",
-          "source": "modrinth",
-          "from": "",
-          "file": "IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar",
-          "url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/1EML9Osa/IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
-          "name": "Amethyst Nether",
-          "image_url": "https://cdn.modrinth.com/data/9EFaPoo8/4dd815ebfbd448502c89719084832bba4adde73b_96.webp",
-          "type": "server",
-          "mod_id": "amethyst-nether",
-          "file_id": "v4.3.1+mod",
-          "source": "modrinth",
-          "from": "",
-          "file": "amethyst-nether-v4.3.1.jar",
-          "url": "https://cdn.modrinth.com/data/9EFaPoo8/versions/YePlpGI1/amethyst-nether-v4.3.1.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "JamLib",
           "image_url": "https://cdn.modrinth.com/data/IYY9Siz8/7585f4d35b18467c2d0d9c496e3b7cd4919c413a_96.webp",
           "type": "server",
@@ -1919,20 +1582,6 @@
           "from": "",
           "file": "softimprints-fabric-26.2-2.5.15.jar",
           "url": "https://cdn.modrinth.com/data/UhxJgB1o/versions/V6FwX7rN/softimprints-fabric-26.2-2.5.15.jar"
-        },
-        {
-          "name": "Hostile Mobs Improve Over Time",
-          "image_url": "https://cdn.modrinth.com/data/ku4JD9TH/127f5701737f3457fe17351ceb694bdb8a394fdc.png",
-          "type": "server",
-          "mod_id": "hostile-mobs-improve-over-time",
-          "file_id": "2.2+mod",
-          "source": "modrinth",
-          "from": "",
-          "file": "hostile-mobs-improve-over-time-2.2.jar",
-          "url": "https://cdn.modrinth.com/data/ku4JD9TH/versions/EfQTKuh2/hostile-mobs-improve-over-time-2.2.jar",
-          "profiles": [
-            "Минимальный"
-          ]
         },
         {
           "name": "CubeCore",
