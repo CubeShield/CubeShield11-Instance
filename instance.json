@@ -1943,6 +1943,20 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "MiniMOTD",
+          "image_url": "https://cdn.modrinth.com/data/16vhQOQN/dc967fb5410417c2311831f24f07b51ebe03629e_96.webp",
+          "type": "server",
+          "mod_id": "minimotd",
+          "file_id": "XSFwxEs2",
+          "source": "modrinth",
+          "from": "",
+          "file": "minimotd-fabric-mc26.2-2.2.4.jar",
+          "url": "https://cdn.modrinth.com/data/16vhQOQN/versions/XSFwxEs2/minimotd-fabric-mc26.2-2.2.4.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
