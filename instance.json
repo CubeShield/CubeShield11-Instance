@@ -736,20 +736,6 @@
           ]
         },
         {
-          "name": "Blooming Biosphere",
-          "image_url": "https://cdn.modrinth.com/data/Ds9FyUc7/62961afcf370dea60dc090f0c6e9ca6309048a68_96.webp",
-          "type": "server",
-          "mod_id": "blooming-biosphere",
-          "file_id": "ZdjVZvLW",
-          "source": "modrinth",
-          "from": "",
-          "file": "blooming-biosphere-v1.1.14.jar",
-          "url": "https://cdn.modrinth.com/data/Ds9FyUc7/versions/ZdjVZvLW/blooming-biosphere-v1.1.14.jar",
-          "profiles": [
-            "Минимальный"
-          ]
-        },
-        {
           "name": "AdoraBuild: Structures",
           "image_url": "https://cdn.modrinth.com/data/rYlnn25U/e69ecf3ff425743c0c2422dd0e16ccf42c64daaa_96.webp",
           "type": "both",
