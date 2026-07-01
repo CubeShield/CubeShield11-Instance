@@ -1765,7 +1765,7 @@
         {
           "name": "Storage Delight",
           "image_url": "https://cdn.modrinth.com/data/LTTvOp5L/ea2f931c89c74b97d60df0a8048bea679a8123a8.gif",
-          "type": "server",
+          "type": "both",
           "mod_id": "storage-delight",
           "file_id": "26.06.19-26.2-fabric",
           "source": "modrinth",
