@@ -1929,6 +1929,20 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "blooming-fix-26-2",
+          "image_url": "",
+          "type": "server",
+          "mod_id": "",
+          "file_id": "",
+          "source": "url",
+          "from": "",
+          "file": "blooming-fix-26-2.jar",
+          "url": "https://github.com/CubeShield/CubeCore/releases/download/v2.0.4/blooming-fix-26-2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
