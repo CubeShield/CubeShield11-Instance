@@ -1566,8 +1566,8 @@
           "file_id": "",
           "source": "url",
           "from": "",
-          "file": "CubeCore-2.0.6.jar",
-          "url": "https://github.com/CubeShield/CubeCore/releases/download/v2.0.6/CubeCore-2.0.6.jar",
+          "file": "CubeCore-2.0.7.jar",
+          "url": "https://github.com/CubeShield/CubeCore/releases/download/v2.0.7/CubeCore-2.0.7.jar",
           "profiles": [
             "Минимальный"
           ]
