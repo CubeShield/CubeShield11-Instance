@@ -1957,6 +1957,34 @@
           "profiles": [
             "Минимальный"
           ]
+        },
+        {
+          "name": "Pl3xMap",
+          "image_url": "https://cdn.modrinth.com/data/34T8oVNY/97d50559261b4ef4663cf0433346cb93462fabbb.jpeg",
+          "type": "server",
+          "mod_id": "pl3xmap",
+          "file_id": "26.2-553",
+          "source": "modrinth",
+          "from": "",
+          "file": "Pl3xMap-26.2-553.jar",
+          "url": "https://cdn.modrinth.com/data/34T8oVNY/versions/8gnJhzMz/Pl3xMap-26.2-553.jar",
+          "profiles": [
+            "Минимальный"
+          ]
+        },
+        {
+          "name": "Pl3xMarkers",
+          "image_url": "https://cdn.modrinth.com/data/pL3tkgTC/66a2b22c71d0944e7dc01817c40750e2dd93a963_96.webp",
+          "type": "server",
+          "mod_id": "pl3xmarkers",
+          "file_id": "0.8.0+26.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "Pl3xMarkers-0.8.0+26.2.jar",
+          "url": "https://cdn.modrinth.com/data/pL3tkgTC/versions/sSugyUPF/Pl3xMarkers-0.8.0%2B26.2.jar",
+          "profiles": [
+            "Минимальный"
+          ]
         }
       ]
     },
